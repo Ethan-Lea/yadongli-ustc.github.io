@@ -23,8 +23,8 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.08*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.11*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
 
@@ -47,7 +47,11 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 🎖 Compeitions
-
+- *2020.11* RoboCup@Home China Open, 1st Place
+- *2019.08* The IJCAI-2019 Eldercare Robot Challenge, Design Challenge, Excellent Design Work 
+- *2019.08* The IJCAI-2019 Eldercare Robot Challenge, Task Challenge, 3rd Place
+- *2019.05* RoboCup@Home Asia-Pacific Invitational Tournament, 1st Place
+- *2019.04* RoboCup@Home China Open, 1st Place
 
 # 📖 Educations
 - *2021.09 - 2022.09 (now)*, Master, Cyber Science and Technology, University of Scienece and Technology of China. 
