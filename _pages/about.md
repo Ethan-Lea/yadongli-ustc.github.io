@@ -26,18 +26,18 @@ My research interest includes wireless sensing, deep learning and radar signal p
 
 # 📝 Publications 
 
-- Towards Domain-Independent and Real-Time Gesture Recognition Using mmWave Signal, Yadong Li, Dongheng Zhang, Jinbo Chen, Jinwei Wan, Dong Zhang, Yang Hu, Qibin Sun, Yan Chen, **ARXIV 2022**
-- Unsupervised Domain Adaptation for Device-free Gesture Recognition, Bin-Bin Zhang, Dongheng Zhang, Yadong Li, Yang Hu, Yan Chen, **ARXIV 2022**
-- DI-Gesture: Domain-Independent and Real-Time Gesture Recognition with Millimeter-Wave Signals, Yadong Li, Dongheng Zhang, Jinbo Chen, Jinwei Wan, Dong Zhang, Yang Hu, Qibin Sun, Yan Chen, **GLOBECOM 2022**
-- Real-Time Fall Detection Using Mmwave Radar, Wenxuan Li, Dongheng Zhang, Yadong Li, Zhi Wu, Jinbo Chen, Dong Zhang, Yang Hu, Qibin Sun, Yan Chen, **ICASSP 2022**
+- Towards Domain-Independent and Real-Time Gesture Recognition Using mmWave Signal, **Yadong Li**, Dongheng Zhang, Jinbo Chen, Jinwei Wan, Dong Zhang, Yang Hu, Qibin Sun, Yan Chen, **ARXIV 2022**
+- Unsupervised Domain Adaptation for Device-free Gesture Recognition, Bin-Bin Zhang, Dongheng Zhang, **Yadong Li**, Yang Hu, Yan Chen, **ARXIV 2022**
+- DI-Gesture: Domain-Independent and Real-Time Gesture Recognition with Millimeter-Wave Signals, **Yadong Li**, Dongheng Zhang, Jinbo Chen, Jinwei Wan, Dong Zhang, Yang Hu, Qibin Sun, Yan Chen, **GLOBECOM 2022**
+- Real-Time Fall Detection Using Mmwave Radar, Wenxuan Li, Dongheng Zhang,**Yadong Li**, Zhi Wu, Jinbo Chen, Dong Zhang, Yang Hu, Qibin Sun, Yan Chen, **ICASSP 2022**
 
-# 🎖 Honors and Awards
+# ✨ Honors and Awards
 - *2021.08* Adolescents Science and Technology Innovation Prize in Henan (10 students in Henan province each year) 
 - *2021.06* Outstanding graduate in Henan (Top 2%)
 - *2021.04* The Academic Star of Zhengzhou University (1 student in Zhengzhou University each year) 
 
 
-# 🎖 Compeitions
+# 🎖 Competitions
 - *2020.11* RoboCup@Home China Open, 1st Place
 - *2019.08* The IJCAI-2019 Eldercare Robot Challenge, Design Challenge, Excellent Design Work 
 - *2019.08* The IJCAI-2019 Eldercare Robot Challenge, Task Challenge, 3rd Place
