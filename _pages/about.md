@@ -21,8 +21,8 @@ I am currently a Master student in Intelligent Perception Lab, University of Sci
 My research interest includes wireless sensing, deep learning and radar signal processing. 
 
 # 🔥 News
-- *2022.08*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.11*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.08*: &nbsp;🎉🎉 One paper is accepted by IEEE GLOBECOM. 
+- *2021.11*: &nbsp;🎉🎉 A large-scale mmWave gesture dataset is published. 
 
 # 📝 Publications 
 
@@ -41,7 +41,8 @@ My research interest includes wireless sensing, deep learning and radar signal p
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.10* Adolescents Science and Technology Innovation Prize in Henan (10 students in Henan province each year) 
+- *2021.10* The Academic Star of Zhengzhou University (1 student in Zhengzhou University each year) 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 🎖 Compeitions
