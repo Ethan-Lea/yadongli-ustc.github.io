@@ -26,7 +26,7 @@ My research interest includes wireless sensing, deep learning and radar signal p
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
@@ -36,9 +36,12 @@ My research interest includes wireless sensing, deep learning and radar signal p
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
-</div>
+</div> -->
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- Towards Domain-Independent and Real-Time Gesture Recognition Using mmWave Signal, Yadong Li, Dongheng Zhang, Jinbo Chen, Jinwei Wan, Dong Zhang, Yang Hu, Qibin Sun, Yan Chen, **ARXIV 2022**
+- Unsupervised Domain Adaptation for Device-free Gesture Recognition, Bin-Bin Zhang, Dongheng Zhang, Yadong Li, Yang Hu, Yan Chen, **ARXIV 2022**
+- DI-Gesture: Domain-Independent and Real-Time Gesture Recognition with Millimeter-Wave Signals, Yadong Li, Dongheng Zhang, Jinbo Chen, Jinwei Wan, Dong Zhang, Yang Hu, Qibin Sun, Yan Chen, **GLOBECOM 2022**
+- Real-Time Fall Detection Using Mmwave Radar, Wenxuan Li, Dongheng Zhang, Yadong Li, Zhi Wu, Jinbo Chen, Dong Zhang, Yang Hu, Qibin Sun, Yan Chen, **ICASSP 2022**
 
 # 🎖 Honors and Awards
 - *2021.08* Adolescents Science and Technology Innovation Prize in Henan (10 students in Henan province each year) 
