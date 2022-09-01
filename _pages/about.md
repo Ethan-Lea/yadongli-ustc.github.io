@@ -17,12 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Master student in Intelligent Perception Lab, University of Science and Technology of China. My supervisors are Qibin Sun and Yan Chen.
+I am currently a Master student in [Intelligent Perception Lab](https://ustc-ip-lab.github.io/), University of Science and Technology of China. My supervisors are [Prof. Sun](https://ieeexplore.ieee.org/author/37088704418) and [Prof. Chen](https://scholar.google.com/citations?hl=zh-CN&user=MVOCn1AAAAAJ).
 My research interest includes wireless sensing, deep learning and radar signal processing. 
 
 # 🔥 News
 - *2022.08*: &nbsp;🎉🎉 One paper is accepted by IEEE GLOBECOM. 
-- *2021.11*: &nbsp;🎉🎉 A large-scale mmWave gesture dataset is published. 
+- *2021.11*: &nbsp;🎉🎉 A large-scale [mmWave gesture dataset](https://github.com/DI-HGR/cross_domain_gesture_dataset) is published. 
 
 # 📝 Publications 
 
