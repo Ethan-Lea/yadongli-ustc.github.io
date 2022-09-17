@@ -21,15 +21,16 @@ I am currently a Master student in [Intelligent Perception Lab](https://ustc-ip-
 My research interest includes wireless sensing, deep learning and radar signal processing. 
 
 # 🔥 News
+- *2022.09*: &nbsp;🎉🎉 One paper is accepted by IEEE Transactions on mobile computing. 
 - *2022.08*: &nbsp;🎉🎉 One paper is accepted by IEEE GLOBECOM. 
 - *2021.11*: &nbsp;🎉🎉 A large-scale [mmWave gesture dataset](https://github.com/DI-HGR/cross_domain_gesture_dataset) is published. 
 
 # 📝 Publications 
 
-- Towards Domain-Independent and Real-Time Gesture Recognition Using mmWave Signal, **Yadong Li**, Dongheng Zhang, Jinbo Chen, Jinwei Wan, Dong Zhang, Yang Hu, Qibin Sun, Yan Chen, **ARXIV 2022**
-- Unsupervised Domain Adaptation for Device-free Gesture Recognition, Bin-Bin Zhang, Dongheng Zhang, **Yadong Li**, Yang Hu, Yan Chen, **ARXIV 2022**
-- DI-Gesture: Domain-Independent and Real-Time Gesture Recognition with Millimeter-Wave Signals, **Yadong Li**, Dongheng Zhang, Jinbo Chen, Jinwei Wan, Dong Zhang, Yang Hu, Qibin Sun, Yan Chen, **GLOBECOM 2022**
-- Real-Time Fall Detection Using Mmwave Radar, Wenxuan Li, Dongheng Zhang,**Yadong Li**, Zhi Wu, Jinbo Chen, Dong Zhang, Yang Hu, Qibin Sun, Yan Chen, **ICASSP 2022**
+- **Yadong Li**, Dongheng Zhang, Jinbo Chen, Jinwei Wan, Dong Zhang, Yang Hu, Qibin Sun, Yan Chen, Towards Domain-Independent and Real-Time Gesture Recognition Using mmWave Signal, **IEEE TMC 2022**
+- Bin-Bin Zhang, Dongheng Zhang, **Yadong Li**, Yang Hu, Yan Chen, Unsupervised Domain Adaptation for Device-free Gesture Recognition, **ARXIV 2022**
+- **Yadong Li**, Dongheng Zhang, Jinbo Chen, Jinwei Wan, Dong Zhang, Yang Hu, Qibin Sun, Yan Chen, DI-Gesture: Domain-Independent and Real-Time Gesture Recognition with Millimeter-Wave Signals, **GLOBECOM 2022**
+- Wenxuan Li, Dongheng Zhang,**Yadong Li**, Zhi Wu, Jinbo Chen, Dong Zhang, Yang Hu, Qibin Sun, Yan Chen, Real-Time Fall Detection Using Mmwave Radar, **ICASSP 2022**
 
 # ✨ Honors and Awards
 - *2021.08* Adolescents Science and Technology Innovation Prize in Henan (10 students in Henan province each year) 
