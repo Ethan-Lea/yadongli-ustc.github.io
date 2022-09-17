@@ -21,7 +21,7 @@ I am currently a Master student in [Intelligent Perception Lab](https://ustc-ip-
 My research interest includes wireless sensing, deep learning and radar signal processing. 
 
 # 🔥 News
-- *2022.09*: &nbsp;🎉🎉 One paper is accepted by IEEE Transactions on mobile computing. 
+- *2022.09*: &nbsp;🎉🎉 One paper is accepted by IEEE Transactions on Mobile Computing. 
 - *2022.08*: &nbsp;🎉🎉 One paper is accepted by IEEE GLOBECOM. 
 - *2021.11*: &nbsp;🎉🎉 A large-scale [mmWave gesture dataset](https://github.com/DI-HGR/cross_domain_gesture_dataset) is published. 
 
