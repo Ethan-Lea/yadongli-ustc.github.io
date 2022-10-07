@@ -27,15 +27,10 @@ My research interest includes wireless sensing, deep learning and radar signal p
 
 # 📝 Publications 
 
-- **Yadong Li**, Dongheng Zhang, Jinbo Chen, Jinwei Wan, Dong Zhang, Yang Hu, Qibin Sun, Yan Chen, Towards Domain-Independent and Real-Time Gesture Recognition Using mmWave Signal, **IEEE TMC 2022**
+- **Yadong Li**, Dongheng Zhang, Jinbo Chen, Jinwei Wan, Dong Zhang, Yang Hu, Qibin Sun, Yan Chen, [Towards Domain-Independent and Real-Time Gesture Recognition Using mmWave Signal,](https://ieeexplore.ieee.org/abstract/document/9894724) **IEEE TMC 2022**
 - Bin-Bin Zhang, Dongheng Zhang, **Yadong Li**, Yang Hu, Yan Chen, Unsupervised Domain Adaptation for Device-free Gesture Recognition, **ARXIV 2022**
 - **Yadong Li**, Dongheng Zhang, Jinbo Chen, Jinwei Wan, Dong Zhang, Yang Hu, Qibin Sun, Yan Chen, DI-Gesture: Domain-Independent and Real-Time Gesture Recognition with Millimeter-Wave Signals, **GLOBECOM 2022**
 - Wenxuan Li, Dongheng Zhang,**Yadong Li**, Zhi Wu, Jinbo Chen, Dong Zhang, Yang Hu, Qibin Sun, Yan Chen, Real-Time Fall Detection Using Mmwave Radar, **ICASSP 2022**
-
-# ✨ Honors and Awards
-- *2021.08* Adolescents Science and Technology Innovation Prize in Henan (10 students in Henan province each year) 
-- *2021.06* Outstanding graduate in Henan (Top 2%)
-- *2021.04* The Academic Star of Zhengzhou University (1 student in Zhengzhou University each year) 
 
 
 # 🎖 Competitions
@@ -45,8 +40,15 @@ My research interest includes wireless sensing, deep learning and radar signal p
 - *2019.05* RoboCup@Home Asia-Pacific Invitational Tournament, 1st Place
 - *2019.04* RoboCup@Home China Open, 1st Place
 
+
+# ✨ Honors and Awards
+- *2021.08* Adolescents Science and Technology Innovation Prize in Henan (10 students in Henan province each year) 
+- *2021.06* Outstanding graduate in Henan (Top 2%)
+- *2021.04* The Academic Star of Zhengzhou University (1 student in Zhengzhou University each year) 
+
+
 # 📖 Educations
-- *2021.09 - 2022.09 (now)*, Master, Cyber Science and Technology, University of Scienece and Technology of China. 
+- *2021.09 - 2022.10 (now)*, Master, Cyber Science and Technology, University of Scienece and Technology of China. 
 - *2017.09 - 2021.06*, Bachelor, Computer Science, Zhengzhou University. 
 
 
