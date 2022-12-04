@@ -42,13 +42,14 @@ My research interest includes wireless sensing, deep learning and radar signal p
 
 
 # ✨ Honors and Awards
+- *2022.10* National Scholarship for Postgradutes (Top 2%)
 - *2021.08* Adolescents Science and Technology Innovation Prize in Henan (10 students in Henan province each year) 
 - *2021.06* Outstanding graduate in Henan (Top 2%)
 - *2021.04* The Academic Star of Zhengzhou University (1 student in Zhengzhou University each year) 
 
 
 # 📖 Educations
-- *2021.09 - 2022.10 (now)*, Master, Cyber Science and Technology, University of Scienece and Technology of China. 
+- *2021.09 - Now*, Master, Cyber Science and Technology, University of Scienece and Technology of China. 
 - *2017.09 - 2021.06*, Bachelor, Computer Science, Zhengzhou University. 
 
 
