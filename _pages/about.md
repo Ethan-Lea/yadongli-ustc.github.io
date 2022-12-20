@@ -26,11 +26,11 @@ My research interest includes wireless sensing, deep learning and radar signal p
 - *2021.11*: &nbsp;🎉🎉 A large-scale [mmWave gesture dataset](https://github.com/DI-HGR/cross_domain_gesture_dataset) is published. 
 
 # 📝 Publications 
-
+- Xuecheng Xie, Dongheng Zhang, **Yadong Li**, Jinbo Chen, Yang Hu, Qibin Sun, Yan Chen, Robust Respiration Sensing with WiFi, **IEEE WCNC 2023**
 - **Yadong Li**, Dongheng Zhang, Jinbo Chen, Jinwei Wan, Dong Zhang, Yang Hu, Qibin Sun, Yan Chen, [Towards Domain-Independent and Real-Time Gesture Recognition Using mmWave Signal,](https://ieeexplore.ieee.org/abstract/document/9894724) **IEEE TMC 2022**
-- Bin-Bin Zhang, Dongheng Zhang, **Yadong Li**, Yang Hu, Yan Chen, Unsupervised Domain Adaptation for Device-free Gesture Recognition, **ARXIV 2022**
-- **Yadong Li**, Dongheng Zhang, Jinbo Chen, Jinwei Wan, Dong Zhang, Yang Hu, Qibin Sun, Yan Chen, DI-Gesture: Domain-Independent and Real-Time Gesture Recognition with Millimeter-Wave Signals, **GLOBECOM 2022**
-- Wenxuan Li, Dongheng Zhang,**Yadong Li**, Zhi Wu, Jinbo Chen, Dong Zhang, Yang Hu, Qibin Sun, Yan Chen, Real-Time Fall Detection Using Mmwave Radar, **ICASSP 2022**
+- Bin-Bin Zhang, Dongheng Zhang, **Yadong Li**, Yang Hu, Yan Chen, Unsupervised Domain Adaptation for Device-free Gesture Recognition, **submitted to IEEE IoTJ**
+- **Yadong Li**, Dongheng Zhang, Jinbo Chen, Jinwei Wan, Dong Zhang, Yang Hu, Qibin Sun, Yan Chen, DI-Gesture: Domain-Independent and Real-Time Gesture Recognition with Millimeter-Wave Signals, **IEEE GLOBECOM 2022**
+- Wenxuan Li, Dongheng Zhang,**Yadong Li**, Zhi Wu, Jinbo Chen, Dong Zhang, Yang Hu, Qibin Sun, Yan Chen, Real-Time Fall Detection Using Mmwave Radar, **IEEE ICASSP 2022**
 
 
 # 🎖 Competitions
@@ -48,7 +48,7 @@ My research interest includes wireless sensing, deep learning and radar signal p
 - *2021.04* The Academic Star of Zhengzhou University (1 student in Zhengzhou University each year) 
 
 
-# 📖 Educations
+# 📖 Education
 - *2021.09 - Now*, Master, Cyber Science and Technology, University of Scienece and Technology of China. 
 - *2017.09 - 2021.06*, Bachelor, Computer Science, Zhengzhou University. 
 
