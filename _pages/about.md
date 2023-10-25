@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a third-year MSc student at [Intelligent Perception Lab](https://ustc-ip-lab.github.io/), University of Science and Technology of China. My supervisors are [Prof. Qibin Sun](https://ieeexplore.ieee.org/author/37088704418) and [Prof. Yan Chen](https://scholar.google.com/citations?hl=zh-CN&user=MVOCn1AAAAAJ).
+I am a third-year MSc student at [Intelligent Perception Lab](https://ustc-ip-lab.github.io/), University of Science and Technology of China. My supervisors are [Prof. Qibin Sun](https://ieeexplore.ieee.org/author/37088704418) and [Prof. Yan Chen](https://scholar.google.com/citations?hl=en-EN&user=MVOCn1AAAAAJ).
 My research interests include mobile sensing and ubiquitous computing, focusing on developing human-centric sensing systems with cost-effective and privacy-preserving mobile devices. 
 
 # 🔥 News
