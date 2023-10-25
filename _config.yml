@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yadong Li"
-description              : "Msc in USTC, focusing on wireless sensing, deep learning and radar signal processing."
+description              : "MSc at USTC, focusing on mobile sensing and ubiquitous computing."
 repository               : "yadongli-ustc/yadongli-ustc.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -27,7 +27,7 @@ author:
   location         : "Hefei, China"
   employer         :
   pubmed           : 
-  googlescholar    : # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    : # "https://scholar.google.com/citations?user=iZWM3pAAAAAJ&hl=zh-EN"
   email            : "yadongli@mail.ustc.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
