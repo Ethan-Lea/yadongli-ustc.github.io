@@ -17,13 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Master student in [Intelligent Perception Lab](https://ustc-ip-lab.github.io/), University of Science and Technology of China. My supervisors are [Prof. Sun](https://ieeexplore.ieee.org/author/37088704418) and [Prof. Chen](https://scholar.google.com/citations?hl=zh-CN&user=MVOCn1AAAAAJ).
-My research interest includes wireless sensing, deep learning and radar signal processing. 
+I am a third-year MSc student at [Intelligent Perception Lab](https://ustc-ip-lab.github.io/), University of Science and Technology of China. My supervisors are [Prof. Qibin Sun](https://ieeexplore.ieee.org/author/37088704418) and [Prof. Yan Chen](https://scholar.google.com/citations?hl=zh-CN&user=MVOCn1AAAAAJ).
+My research interests include mobile sensing and ubiquitous computing, focusing on developing human-centric sensing systems with cost-effective and privacy-preserving mobile devices. 
 
 # 🔥 News
+- *2023.10*: &nbsp;🎉🎉 One paper is accepted by ACM UbiComp. 
+- *2023.10*: &nbsp;🎉🎉 Another mmWave radar point cloud dataset consisting of over 1,200,000 frames is released. Check the open-source code and dataset [here]((https://github.com/ruixv/RadarEyes)).
 - *2023.06*: &nbsp;🎉🎉 MCD-Gesture dataset has been downloaded by researchers from over 40 universities worldwide.
-- *2022.09*: &nbsp;🎉🎉 One paper is accepted by IEEE Transactions on Mobile Computing. 
-- *2021.11*: &nbsp;🎉🎉 A large-scale [mmWave gesture dataset](https://github.com/DI-HGR/cross_domain_gesture_dataset) is published. 
+- *2023.06*: &nbsp;🎉🎉 One paper is accepted by IEEE IoTJ. 
+- *2022.09*: &nbsp;🎉🎉 One paper is accepted by IEEE TMC. 
+- *2021.11*: &nbsp;🎉🎉 A [mmWave gesture dataset](https://github.com/DI-HGR/cross_domain_gesture_dataset) consisting of 24000 samples and 750 domains is published. 
 
 # 📝 Publications 
 - Bin-Bin Zhang, Dongheng Zhang, **Yadong Li**, Yang Hu, Yan Chen, Unsupervised Domain Adaptation for Device-free Gesture Recognition, **IEEE IoTJ 2023**
@@ -42,14 +45,14 @@ My research interest includes wireless sensing, deep learning and radar signal p
 
 
 # ✨ Honors and Awards
-- *2022.10* National Scholarship for Postgradutes (Top 2%)
+- *2022.10* National Scholarship for Postgraduates (Top 2%)
 - *2021.08* Adolescents Science and Technology Innovation Prize in Henan (10 students in Henan province each year) 
 - *2021.06* Outstanding graduate in Henan (Top 2%)
 - *2021.04* The Academic Star of Zhengzhou University (1 student in Zhengzhou University each year) 
 
 
 # 📖 Education
-- *2021.09 - Now*, Master, Cyber Science and Technology, University of Scienece and Technology of China. 
+- *2021.09 - Now*, Master, Cyber Science and Technology, University of Science and Technology of China. 
 - *2017.09 - 2021.06*, Bachelor, Computer Science, Zhengzhou University. 
 
 
