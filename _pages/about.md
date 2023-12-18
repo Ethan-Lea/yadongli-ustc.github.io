@@ -31,18 +31,39 @@ My research interests include mobile sensing and ubiquitous computing, focusing 
 - *2021.11*: &nbsp;🎉🎉 A [mmWave gesture dataset](https://github.com/DI-HGR/cross_domain_gesture_dataset) consisting of 24000 samples and 750 domains is published. 
 
 # 📝 Publications 
-- **Yadong Li**, Dongheng Zhang, Ruixu Geng, Zhi Lu, Zhi Wu, Yang Hu, Qibin Sun, Yan Chen,
-  A High-resolution Handheld Millimeter-wave Imaging System with Phase Error Estimation and Compensation, to appear in **Comms. Eng.**.
-- **Yadong Li**, Dongheng Zhang, Ruixu Geng, Jincheng Wu, Yang Hu, Qibin Sun, Yan Chen, IFNet: Imaging and Focusing Network for Handheld mmWave Devices, **IEEE ICASSP 2024**.
-- Jincheng Wu, Ruixu Geng, **Yadong Li**, Dongheng Zhang, Zhi Lu, Yang Hu, Yan Chen, DiffRadar: High-quality mmWave Radar Perception with Diffusion Probabilistic Model, **IEEE ICASSP 2024**.
-- Jiamu Li, Dongheng Zhang, Qi Chen, **Yadong Li**, Jianyang Wang, Wenxuan Li, Yang Hu, Qibin Sun, Yan Chen, SimFall: A Data Generator For RF-based Fall Detection,  **IEEE ICASSP 2024**.
-- Hanqin Gong, Dongheng Zhang, Jinbo Chen, **Yadong Li**, Guixin Xu, Yuqin Yuan, Yang Hu, Yan Chen, Enabling Orientation-Free mmWave-based Vital Sign Sensing with Multi-domain Signal Analysis,  **IEEE ICASSP 2024**.
-- Tianyu Zhang, Dongheng Zhang, Guanzhong Wang, **Yadong Li**, Yang Hu, Qibin Sun, Yan Chen, RLoc: Towards Robust Indoor Localization by Quantifying Uncertainty, **ACM Ubicomp 2023**. 
-- Bin-Bin Zhang, Dongheng Zhang, **Yadong Li**, Yang Hu, Yan Chen, Unsupervised Domain Adaptation for Device-free Gesture Recognition, **IEEE IoTJ 2023**
-- Xuecheng Xie, Dongheng Zhang, **Yadong Li**, Jinbo Chen, Yang Hu, Qibin Sun, Yan Chen, Robust Respiration Sensing with WiFi, **IEEE WCNC 2023**
-- **Yadong Li**, Dongheng Zhang, Jinbo Chen, Jinwei Wan, Dong Zhang, Yang Hu, Qibin Sun, Yan Chen, [Towards Domain-Independent and Real-Time Gesture Recognition Using mmWave Signal,](https://ieeexplore.ieee.org/abstract/document/9894724) **IEEE TMC 2022**
-- **Yadong Li**, Dongheng Zhang, Jinbo Chen, Jinwei Wan, Dong Zhang, Yang Hu, Qibin Sun, Yan Chen, DI-Gesture: Domain-Independent and Real-Time Gesture Recognition with Millimeter-Wave Signals, **IEEE GLOBECOM 2022**
-- Wenxuan Li, Dongheng Zhang,**Yadong Li**, Zhi Wu, Jinbo Chen, Dong Zhang, Yang Hu, Qibin Sun, Yan Chen, Real-Time Fall Detection Using Mmwave Radar, **IEEE ICASSP 2022**
+-  [A High-resolution Handheld Millimeter-wave Imaging System with Phase Error Estimation and Compensation]() </br>
+  **Yadong Li**, Dongheng Zhang, Ruixu Geng, Zhi Lu, Zhi Wu, Yang Hu, Qibin Sun, Yan Chen
+  to appear in Communications Engineering (**Comms. Eng.**)
+- [IFNet: Imaging and Focusing Network for Handheld mmWave Devices]() </br>
+  **Yadong Li**, Dongheng Zhang, Ruixu Geng, Jincheng Wu, Yang Hu, Qibin Sun, Yan Chen </br>
+  IEEE International Conference on Acoustics, Speech, and Signal Processing (**ICASSP**), 2024
+-  [DiffRadar: High-quality mmWave Radar Perception with Diffusion Probabilistic Model]() </br>
+  Jincheng Wu, Ruixu Geng, **Yadong Li**, Dongheng Zhang, Zhi Lu, Yang Hu, Yan Chen </br>
+  IEEE International Conference on Acoustics, Speech, and Signal Processing (**ICASSP**), 2024
+-[SimFall: A Data Generator For RF-based Fall Detection]()  </br>
+  Jiamu Li, Dongheng Zhang, Qi Chen, **Yadong Li**, Jianyang Wang, Wenxuan Li, Yang Hu, Qibin Sun, Yan Chen <\br>
+  IEEE International Conference on Acoustics, Speech, and Signal Processing (**ICASSP**), 2024
+- [Enabling Orientation-Free mmWave-based Vital Sign Sensing with Multi-domain Signal Analysis](),  </br>
+  Hanqin Gong, Dongheng Zhang, Jinbo Chen, **Yadong Li**, Guixin Xu, Yuqin Yuan, Yang Hu, Yan Chen </br>
+  IEEE International Conference on Acoustics, Speech, and Signal Processing (**ICASSP**), 2024
+- [RLoc: Towards Robust Indoor Localization by Quantifying Uncertainty]()  </br>
+  Tianyu Zhang, Dongheng Zhang, Guanzhong Wang, **Yadong Li**, Yang Hu, Qibin Sun, Yan Chen </br>
+  Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**IMWUT/UbiComp**), 2023 
+- [Unsupervised Domain Adaptation for Device-free Gesture Recognition]()  </br>
+  Bin-Bin Zhang, Dongheng Zhang, **Yadong Li**, Yang Hu, Yan Chen </br>
+  IEEE Internet of Things Journal (**IoTJ**), 2023
+- [Robust Respiration Sensing with WiFi]()  </br>
+  Xuecheng Xie, Dongheng Zhang, **Yadong Li**, Jinbo Chen, Yang Hu, Qibin Sun, Yan Chen </br>
+  IEEE Wireless Communications and Networking Conference (**WCNC**), 2023
+- [Towards Domain-Independent and Real-Time Gesture Recognition Using mmWave Signal](https://ieeexplore.ieee.org/abstract/document/9894724)  </br>
+  **Yadong Li**, Dongheng Zhang, Jinbo Chen, Jinwei Wan, Dong Zhang, Yang Hu, Qibin Sun, Yan Chen </br>
+  IEEE Transactions on Mobile Computing (**TMC**), 2022
+- [DI-Gesture: Domain-Independent and Real-Time Gesture Recognition with Millimeter-Wave Signals]()
+  **Yadong Li**, Dongheng Zhang, Jinbo Chen, Jinwei Wan, Dong Zhang, Yang Hu, Qibin Sun, Yan Chen </br>
+  IEEE Global Communications Conference (**GLOBECOM**), 2022
+- Real-Time Fall Detection Using Mmwave Radar  </br>
+  Wenxuan Li, Dongheng Zhang,**Yadong Li**, Zhi Wu, Jinbo Chen, Dong Zhang, Yang Hu, Qibin Sun, Yan Chen </br>
+  IEEE International Conference on Acoustics, Speech, and Signal Processing (**ICASSP**), 2022
 
 
 # 🎖 Competitions
