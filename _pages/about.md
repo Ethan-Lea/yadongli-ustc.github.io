@@ -32,13 +32,15 @@ My research interests include mobile sensing and ubiquitous computing, focusing 
 
 # 📝 Publications 
 -  [A High-resolution Handheld Millimeter-wave Imaging System with Phase Error Estimation and Compensation]()  
-  **Yadong Li**, Dongheng Zhang, Ruixu Geng, Zhi Lu, Zhi Wu, Yang Hu, Qibin Sun, Yan Chen  </br>
+  **Yadong Li**, Dongheng Zhang, Ruixu Geng, Zhi Lu, Zhi Wu, Yang Hu, Qibin Sun, Yan Chen  
   to appear in Communications Engineering (**Comms. Eng.**)
-- [IFNet: Imaging and Focusing Network for Handheld mmWave Devices]() </br>
-  **Yadong Li**, Dongheng Zhang, Ruixu Geng, Jincheng Wu, Yang Hu, Qibin Sun, Yan Chen </br>
-  IEEE International Conference on Acoustics, Speech, and Signal Processing (**ICASSP**), 2024
--  [DiffRadar: High-quality mmWave Radar Perception with Diffusion Probabilistic Model]() </br>
-  Jincheng Wu, Ruixu Geng, **Yadong Li**, Dongheng Zhang, Zhi Lu, Yang Hu, Yan Chen </br>
+- [IFNet: Imaging and Focusing Network for Handheld mmWave Devices]()  
+  **Yadong Li**, Dongheng Zhang, Ruixu Geng, Jincheng Wu, Yang Hu, Qibin Sun, Yan Chen  
+  IEEE International Conference on Acoustics, Speech, and Signal Processing (**ICASSP**), 2024  
+-  [DiffRadar: High-quality mmWave Radar Perception with Diffusion Probabilistic Model]()
+  
+  Jincheng Wu, Ruixu Geng, **Yadong Li**, Dongheng Zhang, Zhi Lu, Yang Hu, Yan Chen
+  
   IEEE International Conference on Acoustics, Speech, and Signal Processing (**ICASSP**), 2024
 - [SimFall: A Data Generator For RF-based Fall Detection]()  </br>
   Jiamu Li, Dongheng Zhang, Qi Chen, **Yadong Li**, Jianyang Wang, Wenxuan Li, Yang Hu, Qibin Sun, Yan Chen </br>
