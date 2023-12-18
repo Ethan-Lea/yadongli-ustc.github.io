@@ -31,7 +31,7 @@ My research interests include mobile sensing and ubiquitous computing, focusing 
 - *2021.11*: &nbsp;🎉🎉 A [mmWave gesture dataset](https://github.com/DI-HGR/cross_domain_gesture_dataset) consisting of 24000 samples and 750 domains is published. 
 
 # 📝 Publications 
--  [A High-resolution Handheld Millimeter-wave Imaging System with Phase Error Estimation and Compensation]() </br>
+-  [A High-resolution Handheld Millimeter-wave Imaging System with Phase Error Estimation and Compensation]()  
   **Yadong Li**, Dongheng Zhang, Ruixu Geng, Zhi Lu, Zhi Wu, Yang Hu, Qibin Sun, Yan Chen  </br>
   to appear in Communications Engineering (**Comms. Eng.**)
 - [IFNet: Imaging and Focusing Network for Handheld mmWave Devices]() </br>
