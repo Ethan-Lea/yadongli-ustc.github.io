@@ -31,7 +31,8 @@ My research interests include mobile sensing and ubiquitous computing, focusing 
 - *2021.11*: &nbsp;🎉🎉 A [mmWave gesture dataset](https://github.com/DI-HGR/cross_domain_gesture_dataset) consisting of 24000 samples and 750 domains is published. 
 
 # 📝 Publications 
-- **Yadong Li**, Dongheng Zhang, Ruixu Geng, Zhi Lu, Zhi Wu, Yang Hu, Qibin Sun, Yan Chen,  A High-resolution Handheld Millimeter-wave Imaging System with Phase Error Estimation and Compensation, to appear in **Comms. Eng.**.
+- **Yadong Li**, Dongheng Zhang, Ruixu Geng, Zhi Lu, Zhi Wu, Yang Hu, Qibin Sun, Yan Chen,
+  A High-resolution Handheld Millimeter-wave Imaging System with Phase Error Estimation and Compensation, to appear in **Comms. Eng.**.
 - **Yadong Li**, Dongheng Zhang, Ruixu Geng, Jincheng Wu, Yang Hu, Qibin Sun, Yan Chen, IFNet: Imaging and Focusing Network for Handheld mmWave Devices, **IEEE ICASSP 2024**.
 - Jincheng Wu, Ruixu Geng, **Yadong Li**, Dongheng Zhang, Zhi Lu, Yang Hu, Yan Chen, DiffRadar: High-quality mmWave Radar Perception with Diffusion Probabilistic Model, **IEEE ICASSP 2024**.
 - Jiamu Li, Dongheng Zhang, Qi Chen, **Yadong Li**, Jianyang Wang, Wenxuan Li, Yang Hu, Qibin Sun, Yan Chen, SimFall: A Data Generator For RF-based Fall Detection,  **IEEE ICASSP 2024**.
