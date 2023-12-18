@@ -58,7 +58,7 @@ My research interests include mobile sensing and ubiquitous computing, focusing 
 - [Towards Domain-Independent and Real-Time Gesture Recognition Using mmWave Signal](https://ieeexplore.ieee.org/abstract/document/9894724)  </br>
   **Yadong Li**, Dongheng Zhang, Jinbo Chen, Jinwei Wan, Dong Zhang, Yang Hu, Qibin Sun, Yan Chen </br>
   IEEE Transactions on Mobile Computing (**TMC**), 2022
-- [DI-Gesture: Domain-Independent and Real-Time Gesture Recognition with Millimeter-Wave Signals]()
+- [DI-Gesture: Domain-Independent and Real-Time Gesture Recognition with Millimeter-Wave Signals]() </br>
   **Yadong Li**, Dongheng Zhang, Jinbo Chen, Jinwei Wan, Dong Zhang, Yang Hu, Qibin Sun, Yan Chen </br>
   IEEE Global Communications Conference (**GLOBECOM**), 2022
 - [Real-Time Fall Detection Using mmWave Radar]()  </br>
