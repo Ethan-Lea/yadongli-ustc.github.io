@@ -28,7 +28,7 @@ My research interests include mobile sensing and ubiquitous computing, focusing 
 - *2023.06*: &nbsp;🎉🎉 MCD-Gesture dataset has been downloaded by researchers from over 40 universities worldwide.
 - *2023.06*: &nbsp;🎉🎉 One paper is accepted by IEEE IoTJ. 
 - *2022.09*: &nbsp;🎉🎉 One paper is accepted by IEEE TMC. 
-- *2021.11*: &nbsp;🎉🎉 A [mmWave gesture dataset](https://github.com/DI-HGR/cross_domain_gesture_dataset) consisting of 24000 samples and 750 domains is published. 
+- *2021.11*: &nbsp;🎉🎉 We have released a [mmWave gesture dataset](https://github.com/DI-HGR/cross_domain_gesture_dataset) consisting of 24000 samples and 750 domains. 
 
 # Open-source Datasets
 - [MCD-Gesture](https://github.com/yadong-lee/cross_domain_gesture_dataset): mmWave Gesture Dataset (IEEE TMC, 2022).  
