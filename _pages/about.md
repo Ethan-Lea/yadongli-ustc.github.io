@@ -20,7 +20,7 @@ redirect_from:
 I am a third-year MSc student at the University of Science and Technology of China (USTC). I am a group member of USTC [Intelligent Perception Lab](https://ustc-ip-lab.github.io/), advised by [Prof. Qibin Sun](https://ieeexplore.ieee.org/author/37088704418) and [Prof. Yan Chen](https://scholar.google.com/citations?hl=en-EN&user=MVOCn1AAAAAJ).
 My research interests include mobile sensing and ubiquitous computing, focusing on developing human-centric sensing systems with cost-effective and privacy-preserving mobile devices. 
 
-# 🔥 News
+# 📢 News
 - *2023.12*: &nbsp;🎉🎉 Four papers are accepted by IEEE ICASSP. 
 - *2023.11*: &nbsp;🎉🎉 One paper is accepted by Communications Engineering. 
 - *2023.10*: &nbsp;🎉🎉 One paper is accepted by ACM UbiComp. 
@@ -30,7 +30,7 @@ My research interests include mobile sensing and ubiquitous computing, focusing 
 - *2022.09*: &nbsp;🎉🎉 One paper is accepted by IEEE TMC. 
 - *2021.11*: &nbsp;🎉🎉 We have released a [mmWave gesture dataset](https://github.com/DI-HGR/cross_domain_gesture_dataset) consisting of 24000 samples and 750 domains. 
 
-# Released Datasets
+# 🔥 Released Datasets
 - [MCD-Gesture](https://github.com/yadong-lee/cross_domain_gesture_dataset): mmWave Gesture Dataset (IEEE TMC, 2022).  
   - A cross-domain gesture dataset consisting of 24050 instances from 25 users, 6 environments, and 5 locations.  
   - The dataset has been used by researchers from over 50 institutions worldwide.  
