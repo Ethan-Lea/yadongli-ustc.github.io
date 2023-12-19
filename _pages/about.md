@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a third-year MSc student at [Intelligent Perception Lab](https://ustc-ip-lab.github.io/), University of Science and Technology of China. My supervisors are [Prof. Qibin Sun](https://ieeexplore.ieee.org/author/37088704418) and [Prof. Yan Chen](https://scholar.google.com/citations?hl=en-EN&user=MVOCn1AAAAAJ).
+I am a third-year MSc student at the University of Science and Technology of China (USTC). I am a group member of USTC [Intelligent Perception Lab](https://ustc-ip-lab.github.io/), advised by [Prof. Qibin Sun](https://ieeexplore.ieee.org/author/37088704418) and [Prof. Yan Chen](https://scholar.google.com/citations?hl=en-EN&user=MVOCn1AAAAAJ).
 My research interests include mobile sensing and ubiquitous computing, focusing on developing human-centric sensing systems with cost-effective and privacy-preserving mobile devices. 
 
 # 🔥 News
@@ -79,17 +79,16 @@ My research interests include mobile sensing and ubiquitous computing, focusing 
 # ✨ Honors and Awards
 - *2022.10* National Scholarship for Postgraduates (Top 2%)
 - *2021.08* Adolescents Science and Technology Innovation Prize in Henan (10 students in Henan province each year) 
-- *2021.06* Outstanding graduate in Henan (Top 2%)
+- *2021.06* Outstanding undergraduate in Henan (Top 2%)
 - *2021.04* The Academic Star of Zhengzhou University (1 student in Zhengzhou University each year)
 - *2020.11* RoboCup@Home China Open, 1st Place
 - *2019.08* The IJCAI-2019 Eldercare Robot Challenge, Design Challenge, Excellent Design Work 
-- *2019.08* The IJCAI-2019 Eldercare Robot Challenge, Task Challenge, 3rd Place
 - *2019.05* RoboCup@Home Asia-Pacific Invitational Tournament, 1st Place
 - *2019.04* RoboCup@Home China Open, 1st Place
 
 
 # 📖 Education
-- *2021.09 - Now*, Master, Cyber Science and Technology, University of Science and Technology of China. 
+- *2021.09 - Now*, Master, Cyberspace Security, University of Science and Technology of China. 
 - *2017.09 - 2021.06*, Bachelor, Computer Science, Zhengzhou University. 
 
 
