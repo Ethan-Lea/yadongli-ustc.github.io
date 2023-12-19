@@ -24,12 +24,22 @@ My research interests include mobile sensing and ubiquitous computing, focusing 
 - *2023.12*: &nbsp;🎉🎉 Four papers are accepted by IEEE ICASSP. 
 - *2023.11*: &nbsp;🎉🎉 One paper is accepted by Communications Engineering. 
 - *2023.10*: &nbsp;🎉🎉 One paper is accepted by ACM UbiComp. 
-- *2023.10*: &nbsp;🎉🎉 Another mmWave radar point cloud dataset consisting of over 1,200,000 frames is released. Check the open-source code and dataset [here](https://github.com/ruixv/RadarEyes).
+- *2023.10*: &nbsp;🎉🎉 We have released the largest indoor mmWave radar point cloud dataset. Check the open-source code and dataset [here](https://github.com/ruixv/RadarEyes).
 - *2023.06*: &nbsp;🎉🎉 MCD-Gesture dataset has been downloaded by researchers from over 40 universities worldwide.
 - *2023.06*: &nbsp;🎉🎉 One paper is accepted by IEEE IoTJ. 
 - *2022.09*: &nbsp;🎉🎉 One paper is accepted by IEEE TMC. 
 - *2021.11*: &nbsp;🎉🎉 A [mmWave gesture dataset](https://github.com/DI-HGR/cross_domain_gesture_dataset) consisting of 24000 samples and 750 domains is published. 
 
+# Open-source Datasets
+- [MCD-Gesture](https://github.com/yadong-lee/cross_domain_gesture_dataset): mmWave Gesture Dataset (IEEE TMC, 2022).  
+  - A cross-domain gesture dataset consisting of 24050 instances from 25 users, 6 environments, and 5 locations.  
+  - The dataset has been used by researchers from over 50 institutions worldwide.  
+- [RadarEyes](https://github.com/ruixv/RadarEyes): mmWave Pointcloud Dataset (IEEE TIP, Under review).  
+  - The largest indoor mmWave radar dataset for high-quality point cloud reconstruction.   
+  - The dataset contains 1,000,000 frames of mmWave radar, LiDAR, and camera data from 300 indoor scenarios.
+- [H-WILD](https://github.com/H-WILD/human_held_device_wifi_indoor_localization_dataset): WiFi Localization Dataset (ACM UbiComp, 2023).  
+  - A human-held device WiFi localization dataset consisting of 120,000 frames from 10 volunteers across 4 rooms.
+    
 # 📝 Publications 
 -  [A High-resolution Handheld Millimeter-wave Imaging System with Phase Error Estimation and Compensation]()  
   **Yadong Li**, Dongheng Zhang, Ruixu Geng, Zhi Lu, Zhi Wu, Yang Hu, Qibin Sun, Yan Chen  
@@ -66,19 +76,16 @@ My research interests include mobile sensing and ubiquitous computing, focusing 
   IEEE International Conference on Acoustics, Speech, and Signal Processing (**ICASSP**), 2022
 
 
-# 🎖 Competitions
+# ✨ Honors and Awards
+- *2022.10* National Scholarship for Postgraduates (Top 2%)
+- *2021.08* Adolescents Science and Technology Innovation Prize in Henan (10 students in Henan province each year) 
+- *2021.06* Outstanding graduate in Henan (Top 2%)
+- *2021.04* The Academic Star of Zhengzhou University (1 student in Zhengzhou University each year)
 - *2020.11* RoboCup@Home China Open, 1st Place
 - *2019.08* The IJCAI-2019 Eldercare Robot Challenge, Design Challenge, Excellent Design Work 
 - *2019.08* The IJCAI-2019 Eldercare Robot Challenge, Task Challenge, 3rd Place
 - *2019.05* RoboCup@Home Asia-Pacific Invitational Tournament, 1st Place
 - *2019.04* RoboCup@Home China Open, 1st Place
-
-
-# ✨ Honors and Awards
-- *2022.10* National Scholarship for Postgraduates (Top 2%)
-- *2021.08* Adolescents Science and Technology Innovation Prize in Henan (10 students in Henan province each year) 
-- *2021.06* Outstanding graduate in Henan (Top 2%)
-- *2021.04* The Academic Star of Zhengzhou University (1 student in Zhengzhou University each year) 
 
 
 # 📖 Education
