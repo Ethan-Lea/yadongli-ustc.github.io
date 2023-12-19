@@ -6,8 +6,8 @@ main:
   - title: "News"
     url: "/#-news"
 
-  - title: "Open-source Datasets"
-    url: "/#-open-source-datasets"
+  - title: "Released Datasets"
+    url: "/#-released-datasets"
     
   - title: "Publications"
     url: "/#-publications"
