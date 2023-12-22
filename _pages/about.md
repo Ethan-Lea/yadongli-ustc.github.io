@@ -22,9 +22,9 @@ My research interests include mobile sensing and ubiquitous computing, focusing 
 
 # 📢 News
 - *2023.12*: &nbsp;🎉🎉 Four papers are accepted by IEEE ICASSP. 
-- *2023.11*: &nbsp;🎉🎉 One paper is accepted by Communications Engineering. 
+- *2023.11*: &nbsp;🎉🎉 One paper is accepted by [Communications Engineering](https://www.nature.com/commseng/). 
 - *2023.10*: &nbsp;🎉🎉 One paper is accepted by ACM UbiComp. 
-- *2023.10*: &nbsp;🎉🎉 We have released the largest indoor mmWave radar point cloud dataset. Check the open-source code and dataset [here](https://github.com/ruixv/RadarEyes).
+- *2023.10*: &nbsp;🎉🎉 We have released the largest [indoor mmWave radar point cloud dataset](https://github.com/ruixv/RadarEyes) and the corresponding code.
 - *2023.06*: &nbsp;🎉🎉 MCD-Gesture dataset has been downloaded by researchers from over 40 universities worldwide.
 - *2023.06*: &nbsp;🎉🎉 One paper is accepted by IEEE IoTJ. 
 - *2022.09*: &nbsp;🎉🎉 One paper is accepted by IEEE TMC. 
