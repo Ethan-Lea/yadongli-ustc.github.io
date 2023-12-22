@@ -28,7 +28,7 @@ My research interests include mobile sensing and ubiquitous computing, focusing 
 - *2023.06*: &nbsp;🎉🎉 MCD-Gesture dataset has been downloaded by researchers from over 40 universities worldwide.
 - *2023.06*: &nbsp;🎉🎉 One paper is accepted by IEEE IoTJ. 
 - *2022.09*: &nbsp;🎉🎉 One paper is accepted by IEEE TMC. 
-- *2021.11*: &nbsp;🎉🎉 We have released a [mmWave gesture dataset](https://github.com/DI-HGR/cross_domain_gesture_dataset) consisting of 24000 samples and 750 domains. 
+- *2021.11*: &nbsp;🎉🎉 We have released a [mmWave gesture dataset](https://github.com/DI-HGR/cross_domain_gesture_dataset) consisting of 24050 samples and 750 domains. 
 
 # 🔥 Released Datasets
 - [MCD-Gesture](https://github.com/yadong-lee/cross_domain_gesture_dataset): mmWave Gesture Dataset (IEEE TMC, 2022).  
@@ -79,12 +79,12 @@ My research interests include mobile sensing and ubiquitous computing, focusing 
 # ✨ Honors and Awards
 - *2022.10* National Scholarship for Postgraduates (Top 2%)
 - *2021.08* Adolescents Science and Technology Innovation Prize in Henan (10 students in Henan province each year) 
-- *2021.06* Outstanding undergraduate in Henan (Top 2%)
+- *2021.06* Outstanding Undergraduate in Henan (Top 2%)
 - *2021.04* The Academic Star of Zhengzhou University (1 student in Zhengzhou University each year)
-- *2020.11* RoboCup@Home China Open, 1st Place
-- *2019.08* The IJCAI-2019 Eldercare Robot Challenge, Design Challenge, Excellent Design Work 
-- *2019.05* RoboCup@Home Asia-Pacific Invitational Tournament, 1st Place
-- *2019.04* RoboCup@Home China Open, 1st Place
+- *2020.11* 1st Place, RoboCup@Home China Open
+- *2019.08* Excellent Design Work, Design Challenge, The IJCAI-2019 Eldercare Robot Challenge
+- *2019.05* 1st Place, RoboCup@Home Asia-Pacific Invitational Tournament
+- *2019.04* 1st Place, RoboCup@Home China Open 
 
 
 # 📖 Education
