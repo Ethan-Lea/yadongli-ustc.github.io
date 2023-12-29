@@ -21,7 +21,7 @@ I am a third-year MSc student at the University of Science and Technology of Chi
 My research interests include mobile sensing and ubiquitous computing, focusing on developing human-centric sensing systems with cost-effective and privacy-preserving mobile devices. 
 
 # 📢 News
-- *2023.12*: &nbsp;🎉🎉 Four papers are accepted by IEEE ICASSP. 
+- *2023.12*: &nbsp;🎉🎉 One paper is accepted by IEEE TMC and four papers are accepted by IEEE ICASSP. 
 - *2023.11*: &nbsp;🎉🎉 One paper is accepted by [Communications Engineering](https://www.nature.com/commseng/). 
 - *2023.10*: &nbsp;🎉🎉 One paper is accepted by ACM UbiComp. 
 - *2023.10*: &nbsp;🎉🎉 We have released the largest [indoor mmWave radar point cloud dataset](https://github.com/ruixv/RadarEyes) and the corresponding code.
@@ -44,6 +44,9 @@ My research interests include mobile sensing and ubiquitous computing, focusing 
 -  [A High-resolution Handheld Millimeter-wave Imaging System with Phase Error Estimation and Compensation]()  
   **Yadong Li**, Dongheng Zhang, Ruixu Geng, Zhi Lu, Zhi Wu, Yang Hu, Qibin Sun, Yan Chen  
   *to appear in Communications Engineering (**Comms. Eng.**)*
+-  [Robust WiFi Respiration Sensing in the Presence of Interfering Individual]()  
+  Xuecheng Xie, Dongheng Zhang, **Yadong Li**, Jinbo Chen, Yang Hu, Qibin Sun, Yan Chen  
+  *to appear in IEEE Transactions on Mobile Computing (**TMC**)*
 - [IFNet: Imaging and Focusing Network for Handheld mmWave Devices]()  
   **Yadong Li**, Dongheng Zhang, Ruixu Geng, Jincheng Wu, Yang Hu, Qibin Sun, Yan Chen  
   *IEEE International Conference on Acoustics, Speech, and Signal Processing (**ICASSP**), 2024*  
