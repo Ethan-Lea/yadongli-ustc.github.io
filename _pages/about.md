@@ -62,7 +62,7 @@ My research interests include mobile sensing and ubiquitous computing, focusing 
 - [RLoc: Towards Robust Indoor Localization by Quantifying Uncertainty]()  
   Tianyu Zhang, Dongheng Zhang, Guanzhong Wang, **Yadong Li**, Yang Hu, Qibin Sun, Yan Chen  
   *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**IMWUT/UbiComp**), 2023* 
-- [Unsupervised Domain Adaptation for Device-free Gesture Recognition](https://ieeexplore.ieee.org/document/10147269)  
+- [Unsupervised Domain Adaptation for RF-based Gesture Recognition](https://ieeexplore.ieee.org/document/10147269)  
   Bin-Bin Zhang, Dongheng Zhang, **Yadong Li**, Yang Hu, Yan Chen   
   *IEEE Internet of Things Journal (**IoTJ**), 2023*
 - [Robust Respiration Sensing with WiFi](https://ieeexplore.ieee.org/document/10118809)  
