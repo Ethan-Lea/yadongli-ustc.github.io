@@ -24,7 +24,7 @@ The goal of my research is to **enhance the sensing robustness** (e.g., cross-do
 
 # 📢 News
 - *2023.12*: &nbsp;🎉🎉 One paper is accepted by IEEE TMC and four papers are accepted by IEEE ICASSP. 
-- *2023.11*: &nbsp;🎉🎉 One paper is accepted by [Communications Engineering](https://www.nature.com/commseng/). 
+- *2023.11*: &nbsp;🎉🎉 One paper is accepted by [Communications Engineering](https://www.nature.com/commseng/) from the Nature Portfolio. 
 - *2023.10*: &nbsp;🎉🎉 One paper is accepted by ACM UbiComp. 
 - *2023.10*: &nbsp;🎉🎉 We have released the largest [indoor mmWave radar point cloud dataset](https://github.com/ruixv/RadarEyes) and the corresponding code.
 - *2023.09*: &nbsp;🎉🎉 MCD-Gesture dataset has been downloaded by researchers from over 50 universities worldwide.
