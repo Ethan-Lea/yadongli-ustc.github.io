@@ -41,18 +41,31 @@ The goal of my research is to enhance the sensing robustness (cross-domain gestu
   - A human-held device WiFi localization dataset consisting of 120,000 frames from 10 volunteers across 4 rooms.
     
 # 📝 Publications 
+## Enhancing the sensing resolution
 -  [A High-resolution Handheld Millimeter-wave Imaging System with Phase Error Estimation and Compensation]()  
   **Yadong Li**, Dongheng Zhang, Ruixu Geng, Zhi Lu, Zhi Wu, Yang Hu, Qibin Sun, Yan Chen  
   *to appear in Communications Engineering (**Comms. Eng.**)*
+- [IFNet: Imaging and Focusing Network for Handheld mmWave Devices]()  
+  **Yadong Li**, Dongheng Zhang, Ruixu Geng, Jincheng Wu, Yang Hu, Qibin Sun, Yan Chen  
+  *IEEE International Conference on Acoustics, Speech, and Signal Processing (**ICASSP**), 2024*
+-  [DiffRadar: High-quality mmWave Radar Perception with Diffusion Probabilistic Model]()  
+  Jincheng Wu, Ruixu Geng, **Yadong Li**, Dongheng Zhang, Zhi Lu, Yang Hu, Yan Chen
+ *IEEE International Conference on Acoustics, Speech, and Signal Processing (**ICASSP**), 2024*
+-  [DREAM-PCD: Deep Reconstruction and Enhancement of mmWave Radar Pointcloud]()  
+   Ruixu Geng, **Yadong Li**, Dongheng Zhang, Jincheng Wu, Yating Gao, Yang Hu, Yan Chen
+ *arXiv, 2023 (submitted to IEEE Transactions on Imaging Processing)*
+
+## Enhancing the sensing robustness
+- [Towards Domain-Independent and Real-Time Gesture Recognition Using mmWave Signal](https://ieeexplore.ieee.org/abstract/document/9894724)  
+  **Yadong Li**, Dongheng Zhang, Jinbo Chen, Jinwei Wan, Dong Zhang, Yang Hu, Qibin Sun, Yan Chen  
+  *IEEE Transactions on Mobile Computing (**TMC**), 2022*
+- [DI-Gesture: Domain-Independent and Real-Time Gesture Recognition with Millimeter-Wave Signals](https://ieeexplore.ieee.org/document/10001175)  
+  **Yadong Li**, Dongheng Zhang, Jinbo Chen, Jinwei Wan, Dong Zhang, Yang Hu, Qibin Sun, Yan Chen  
+  *IEEE Global Communications Conference (**GLOBECOM**), 2022*
 -  [Robust WiFi Respiration Sensing in the Presence of Interfering Individual]()  
   Xuecheng Xie, Dongheng Zhang, **Yadong Li**, Jinbo Chen, Yang Hu, Qibin Sun, Yan Chen  
   *to appear in IEEE Transactions on Mobile Computing (**TMC**)*
-- [IFNet: Imaging and Focusing Network for Handheld mmWave Devices]()  
-  **Yadong Li**, Dongheng Zhang, Ruixu Geng, Jincheng Wu, Yang Hu, Qibin Sun, Yan Chen  
-  *IEEE International Conference on Acoustics, Speech, and Signal Processing (**ICASSP**), 2024*  
--  [DiffRadar: High-quality mmWave Radar Perception with Diffusion Probabilistic Model]()  
-  Jincheng Wu, Ruixu Geng, **Yadong Li**, Dongheng Zhang, Zhi Lu, Yang Hu, Yan Chen  
-  *IEEE International Conference on Acoustics, Speech, and Signal Processing (**ICASSP**), 2024*
+ 
 - [SimFall: A Data Generator For RF-based Fall Detection]()  
   Jiamu Li, Dongheng Zhang, Qi Chen, **Yadong Li**, Jianyang Wang, Wenxuan Li, Yang Hu, Qibin Sun, Yan Chen  
   *IEEE International Conference on Acoustics, Speech, and Signal Processing (**ICASSP**), 2024*
@@ -68,12 +81,6 @@ The goal of my research is to enhance the sensing robustness (cross-domain gestu
 - [Robust Respiration Sensing with WiFi](https://ieeexplore.ieee.org/document/10118809)  
   Xuecheng Xie, Dongheng Zhang, **Yadong Li**, Jinbo Chen, Yang Hu, Qibin Sun, Yan Chen  
   *IEEE Wireless Communications and Networking Conference (**WCNC**), 2023*
-- [Towards Domain-Independent and Real-Time Gesture Recognition Using mmWave Signal](https://ieeexplore.ieee.org/abstract/document/9894724)  
-  **Yadong Li**, Dongheng Zhang, Jinbo Chen, Jinwei Wan, Dong Zhang, Yang Hu, Qibin Sun, Yan Chen  
-  *IEEE Transactions on Mobile Computing (**TMC**), 2022*
-- [DI-Gesture: Domain-Independent and Real-Time Gesture Recognition with Millimeter-Wave Signals](https://ieeexplore.ieee.org/document/10001175)  
-  **Yadong Li**, Dongheng Zhang, Jinbo Chen, Jinwei Wan, Dong Zhang, Yang Hu, Qibin Sun, Yan Chen  
-  *IEEE Global Communications Conference (**GLOBECOM**), 2022*
 - [Real-Time Fall Detection Using mmWave Radar](https://ieeexplore.ieee.org/document/9747153)  
   Wenxuan Li, Dongheng Zhang,**Yadong Li**, Zhi Wu, Jinbo Chen, Dong Zhang, Yang Hu, Qibin Sun, Yan Chen  
   *IEEE International Conference on Acoustics, Speech, and Signal Processing (**ICASSP**), 2022*
