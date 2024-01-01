@@ -65,22 +65,18 @@ The goal of my research is to enhance the sensing robustness (cross-domain gestu
 -  [Robust WiFi Respiration Sensing in the Presence of Interfering Individual]()  
   Xuecheng Xie, Dongheng Zhang, **Yadong Li**, Jinbo Chen, Yang Hu, Qibin Sun, Yan Chen  
   *to appear in IEEE Transactions on Mobile Computing (**TMC**)*
- 
+ - [RLoc: Towards Robust Indoor Localization by Quantifying Uncertainty]()  
+  Tianyu Zhang, Dongheng Zhang, Guanzhong Wang, **Yadong Li**, Yang Hu, Qibin Sun, Yan Chen  
+  *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**IMWUT/UbiComp**), 2023* 
 - [SimFall: A Data Generator For RF-based Fall Detection]()  
   Jiamu Li, Dongheng Zhang, Qi Chen, **Yadong Li**, Jianyang Wang, Wenxuan Li, Yang Hu, Qibin Sun, Yan Chen  
   *IEEE International Conference on Acoustics, Speech, and Signal Processing (**ICASSP**), 2024*
 - [Enabling Orientation-Free mmWave-based Vital Sign Sensing with Multi-domain Signal Analysis]()  
   Hanqin Gong, Dongheng Zhang, Jinbo Chen, **Yadong Li**, Guixin Xu, Yuqin Yuan, Yang Hu, Yan Chen  
   *IEEE International Conference on Acoustics, Speech, and Signal Processing (**ICASSP**), 2024*
-- [RLoc: Towards Robust Indoor Localization by Quantifying Uncertainty]()  
-  Tianyu Zhang, Dongheng Zhang, Guanzhong Wang, **Yadong Li**, Yang Hu, Qibin Sun, Yan Chen  
-  *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**IMWUT/UbiComp**), 2023* 
 - [Unsupervised Domain Adaptation for RF-based Gesture Recognition](https://ieeexplore.ieee.org/document/10147269)  
   Bin-Bin Zhang, Dongheng Zhang, **Yadong Li**, Yang Hu, Yan Chen   
   *IEEE Internet of Things Journal (**IoTJ**), 2023*
-- [Robust Respiration Sensing with WiFi](https://ieeexplore.ieee.org/document/10118809)  
-  Xuecheng Xie, Dongheng Zhang, **Yadong Li**, Jinbo Chen, Yang Hu, Qibin Sun, Yan Chen  
-  *IEEE Wireless Communications and Networking Conference (**WCNC**), 2023*
 - [Real-Time Fall Detection Using mmWave Radar](https://ieeexplore.ieee.org/document/9747153)  
   Wenxuan Li, Dongheng Zhang,**Yadong Li**, Zhi Wu, Jinbo Chen, Dong Zhang, Yang Hu, Qibin Sun, Yan Chen  
   *IEEE International Conference on Acoustics, Speech, and Signal Processing (**ICASSP**), 2022*
