@@ -18,7 +18,8 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am a third-year MSc student at the University of Science and Technology of China (USTC). I am also a group member of USTC [Intelligent Perception Lab](https://ustc-ip-lab.github.io/), advised by [Prof. Qibin Sun](https://ieeexplore.ieee.org/author/37088704418) and [Prof. Yan Chen](https://scholar.google.com/citations?hl=en-EN&user=MVOCn1AAAAAJ).
-My research interests include mobile sensing and ubiquitous computing, focusing on developing human-centric sensing systems with cost-effective and privacy-preserving mobile devices. 
+My research interests include wireless sensing and ubiquitous computing, focusing on developing human-centric sensing systems with cost-effective and privacy-preserving mobile devices.  
+The goal of my research is to enhance the sensing robustness (cross-domain gesture and position sensing, sensing under human and device interference) and sensing resolution (near-field SAR imaging, radar point cloud generation), which is crucial for achieving a comprehensive perception of the physical and digital world with millions of wireless devices. 
 
 # 📢 News
 - *2023.12*: &nbsp;🎉🎉 One paper is accepted by IEEE TMC and four papers are accepted by IEEE ICASSP. 
