@@ -50,7 +50,7 @@ The goal of my research is to **enhance the sensing robustness** (cross-domain g
   **Yadong Li**, Dongheng Zhang, Ruixu Geng, Jincheng Wu, Yang Hu, Qibin Sun, Yan Chen  
   *IEEE International Conference on Acoustics, Speech, and Signal Processing (**ICASSP**), 2024*
 -  [DiffRadar: High-quality mmWave Radar Perception with Diffusion Probabilistic Model]()  
-  Jincheng Wu, Ruixu Geng, **Yadong Li**, Dongheng Zhang, Zhi Lu, Yang Hu, Yan Chen
+  Jincheng Wu, Ruixu Geng, **Yadong Li**, Dongheng Zhang, Zhi Lu, Yang Hu, Yan Chen  
  *IEEE International Conference on Acoustics, Speech, and Signal Processing (**ICASSP**), 2024*
 -  [DREAM-PCD: Deep Reconstruction and Enhancement of mmWave Radar Pointcloud]()  
    Ruixu Geng, **Yadong Li**, Dongheng Zhang, Jincheng Wu, Yating Gao, Yang Hu, Yan Chen  
