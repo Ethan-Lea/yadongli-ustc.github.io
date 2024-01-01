@@ -53,7 +53,7 @@ The goal of my research is to enhance the **sensing robustness** (cross-domain g
   Jincheng Wu, Ruixu Geng, **Yadong Li**, Dongheng Zhang, Zhi Lu, Yang Hu, Yan Chen
  *IEEE International Conference on Acoustics, Speech, and Signal Processing (**ICASSP**), 2024*
 -  [DREAM-PCD: Deep Reconstruction and Enhancement of mmWave Radar Pointcloud]()  
-   Ruixu Geng, **Yadong Li**, Dongheng Zhang, Jincheng Wu, Yating Gao, Yang Hu, Yan Chen
+   Ruixu Geng, **Yadong Li**, Dongheng Zhang, Jincheng Wu, Yating Gao, Yang Hu, Yan Chen  
  *arXiv, 2023 (submitted to IEEE Transactions on Imaging Processing)*
 
 ## Enhancing the sensing robustness
