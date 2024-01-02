@@ -65,7 +65,7 @@ The goal of my research is to **enhance the sensing robustness** (e.g., cross-do
   *IEEE Global Communications Conference (**GLOBECOM**), 2022*
 -  [Robust WiFi Respiration Sensing in the Presence of Interfering Individual](https://ieeexplore.ieee.org/document/10379134)  
   Xuecheng Xie, Dongheng Zhang, **Yadong Li**, Jinbo Chen, Yang Hu, Qibin Sun, Yan Chen  
-  *to appear in IEEE Transactions on Mobile Computing (**TMC**)*
+  *IEEE Transactions on Mobile Computing (**TMC**), 2024.*
  - [RLoc: Towards Robust Indoor Localization by Quantifying Uncertainty]()  
   Tianyu Zhang, Dongheng Zhang, Guanzhong Wang, **Yadong Li**, Yang Hu, Qibin Sun, Yan Chen  
   *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**IMWUT/UbiComp**), 2023* 
