@@ -45,7 +45,7 @@ The goal of my research is to **enhance the sensing robustness** (e.g., cross-do
 ## Augmenting the sensing resolution
 -  [A High-resolution Handheld Millimeter-wave Imaging System with Phase Error Estimation and Compensation](https://www.nature.com/articles/s44172-023-00156-2)  
   **Yadong Li**, Dongheng Zhang, Ruixu Geng, Zhi Lu, Zhi Wu, Yang Hu, Qibin Sun, Yan Chen  
-  *to appear in Communications Engineering (**Comms. Eng.**)*
+  *Communications Engineering (**Comms. Eng.**), 2024*
 - [IFNet: Imaging and Focusing Network for Handheld mmWave Devices]()  
   **Yadong Li**, Dongheng Zhang, Ruixu Geng, Jincheng Wu, Yang Hu, Qibin Sun, Yan Chen  
   *IEEE International Conference on Acoustics, Speech, and Signal Processing (**ICASSP**), 2024*
@@ -68,7 +68,7 @@ The goal of my research is to **enhance the sensing robustness** (e.g., cross-do
   *IEEE Transactions on Mobile Computing (**TMC**), 2024.*
  - [RLoc: Towards Robust Indoor Localization by Quantifying Uncertainty]()  
   Tianyu Zhang, Dongheng Zhang, Guanzhong Wang, **Yadong Li**, Yang Hu, Qibin Sun, Yan Chen  
-  *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**IMWUT/UbiComp**), 2023* 
+  *to appear in Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**IMWUT/UbiComp**)* 
 - [SimFall: A Data Generator For RF-based Fall Detection]()  
   Jiamu Li, Dongheng Zhang, Qi Chen, **Yadong Li**, Jianyang Wang, Wenxuan Li, Yang Hu, Qibin Sun, Yan Chen  
   *IEEE International Conference on Acoustics, Speech, and Signal Processing (**ICASSP**), 2024*
