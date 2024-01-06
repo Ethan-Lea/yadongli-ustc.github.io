@@ -43,7 +43,7 @@ The goal of my research is to **enhance the sensing robustness** (e.g., cross-do
     
 # 📝 Publications 
 ## Augmenting the sensing resolution
--  [A High-resolution Handheld Millimeter-wave Imaging System with Phase Error Estimation and Compensation]()  
+-  [A High-resolution Handheld Millimeter-wave Imaging System with Phase Error Estimation and Compensation](https://www.nature.com/articles/s44172-023-00156-2)  
   **Yadong Li**, Dongheng Zhang, Ruixu Geng, Zhi Lu, Zhi Wu, Yang Hu, Qibin Sun, Yan Chen  
   *to appear in Communications Engineering (**Comms. Eng.**)*
 - [IFNet: Imaging and Focusing Network for Handheld mmWave Devices]()  
