@@ -24,12 +24,12 @@ My research interests include wireless sensing and ubiquitous computing, focusin
 The goal of my research is to **enhance the sensing robustness** (e.g., cross-domain gesture and position sensing, sensing under human and device interference) and **augment the sensing resolution** (e.g., near-field SAR imaging, radar point cloud generation), which is crucial for achieving a comprehensive perception of the physical and digital world with millions of wireless devices. 
 
 # 📢 News
-- *2023.12*: &nbsp;🎉🎉 One paper is accepted by IEEE TMC and four papers are accepted by IEEE ICASSP. 
-- *2023.11*: &nbsp;🎉🎉 One paper is accepted by [Communications Engineering](https://www.nature.com/commseng/) from the Nature Portfolio. 
-- *2023.10*: &nbsp;🎉🎉 One paper is accepted by ACM UbiComp. 
+- *2023.12*: &nbsp;🎉🎉 One paper got accepted by IEEE TMC and four papers got accepted by IEEE ICASSP. 
+- *2023.11*: &nbsp;🎉🎉 One paper got accepted by [Communications Engineering](https://www.nature.com/commseng/) from the Nature Portfolio. 
+- *2023.10*: &nbsp;🎉🎉 One paper got accepted by ACM UbiComp. 
 - *2023.10*: &nbsp;🎉🎉 We have released the largest [indoor mmWave radar point cloud dataset](https://github.com/ruixv/RadarEyes) and the corresponding code.
 - *2023.09*: &nbsp;🎉🎉 MCD-Gesture dataset has been downloaded by researchers from over 50 universities worldwide.
-- *2022.09*: &nbsp;🎉🎉 One paper is accepted by IEEE TMC. 
+- *2022.09*: &nbsp;🎉🎉 One paper got accepted by IEEE TMC. 
 - *2021.11*: &nbsp;🎉🎉 We have released a [mmWave gesture dataset](https://github.com/DI-HGR/cross_domain_gesture_dataset) consisting of 24050 samples and 750 domains. 
 
 # 🔥 Released Datasets
