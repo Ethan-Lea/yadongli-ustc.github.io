@@ -17,6 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# 😄 About Me  
 I am a third-year MSc student at the University of Science and Technology of China (USTC). I am also a group member of USTC [Intelligent Perception Lab](https://ustc-ip-lab.github.io/), advised by [Prof. Qibin Sun](https://scholar.google.com/citations?hl=en&user=bPLvsSAAAAAJ) and [Prof. Yan Chen](https://scholar.google.com/citations?hl=en-EN&user=MVOCn1AAAAAJ).
 My research interests include wireless sensing and ubiquitous computing, focusing on developing human-centric sensing systems with cost-effective and privacy-preserving mobile devices.  
 
