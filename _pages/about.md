@@ -85,17 +85,18 @@ The goal of my research is to **enhance the sensing robustness** (e.g., cross-do
 
 
 # ✨ Honors and Awards
-- *2022.10* National Scholarship for Postgraduates (Top 2%)
-- *2021.08* Adolescents Science and Technology Innovation Prize in Henan (10 students in Henan province each year) 
-- *2021.06* Outstanding Undergraduate in Henan (Top 2%)
-- *2021.04* The Academic Star of Zhengzhou University (1 student in Zhengzhou University each year)
+- *2024.02* ICASSP'24 IEEE SPS Travel Grant Award
+- *2022.10* National Scholarship (Top 2%)
+- *2021.08* Adolescents Science and Technology Innovation Prize (10 students in Henan province each year) 
+- *2021.06* Outstanding Undergraduate (Top 2%)
+- *2021.04* The Academic Star (1 student in Zhengzhou University each year)
 - *2020.11* 1st Place, RoboCup@Home China Open
 - *2019.08* Excellent Design Work, Design Challenge, The IJCAI-2019 Eldercare Robot Challenge
 - *2019.05* 1st Place, RoboCup@Home Asia-Pacific Invitational Tournament
 - *2019.04* 1st Place, RoboCup@Home China Open 
 
 # 🔎 Service
-## Reviewer
+## Invited Reviewer
 - IEEE Journal on Selected Areas in Communications (JSAC)  
 - IEEE Internet of Things Journal (IoTJ)
 
