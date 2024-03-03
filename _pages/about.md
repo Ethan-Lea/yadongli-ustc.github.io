@@ -42,34 +42,34 @@ The goal of my research is to **enhance the sensing robustness** (e.g., cross-do
 - [H-WILD](https://github.com/H-WILD/human_held_device_wifi_indoor_localization_dataset): WiFi Localization Dataset (ACM UbiComp, 2023).  
   - A human-held device WiFi localization dataset consisting of 120,000 frames from 10 volunteers across 4 rooms.
     
-# 📝 Publications 
-## Augmenting the sensing resolution
+# 📝 Selected Publications 
+
 -  [A High-resolution Handheld Millimeter-wave Imaging System with Phase Error Estimation and Compensation](https://www.nature.com/articles/s44172-023-00156-2)  
   **Yadong Li**, Dongheng Zhang, Ruixu Geng, Zhi Lu, Zhi Wu, Yang Hu, Qibin Sun, Yan Chen  
   *Communications Engineering (**Comms. Eng.**), 2024*
 - [IFNet: Imaging and Focusing Network for Handheld mmWave Devices]()  
   **Yadong Li**, Dongheng Zhang, Ruixu Geng, Jincheng Wu, Yang Hu, Qibin Sun, Yan Chen  
   *IEEE International Conference on Acoustics, Speech, and Signal Processing (**ICASSP**), 2024*
--  [DiffRadar: High-quality mmWave Radar Perception with Diffusion Probabilistic Model]()  
-  Jincheng Wu, Ruixu Geng, **Yadong Li**, Dongheng Zhang, Zhi Lu, Yang Hu, Yan Chen  
- *IEEE International Conference on Acoustics, Speech, and Signal Processing (**ICASSP**), 2024*
--  [DREAM-PCD: Deep Reconstruction and Enhancement of mmWave Radar Pointcloud]()  
-   Ruixu Geng, **Yadong Li**, Dongheng Zhang, Jincheng Wu, Yating Gao, Yang Hu, Yan Chen  
- *arXiv, 2023 (submitted to IEEE Transactions on Imaging Processing)*
-
-## Enhancing the sensing robustness
-- [Towards Domain-Independent and Real-Time Gesture Recognition Using mmWave Signal](https://ieeexplore.ieee.org/abstract/document/9894724)  
+- [Robust WiFi Respiration Sensing in the Presence of Interfering Individual](https://ieeexplore.ieee.org/document/10379134)  
+  Xuecheng Xie, Dongheng Zhang, **Yadong Li**, Jinbo Chen, Yang Hu, Qibin Sun, Yan Chen  
+  *IEEE Transactions on Mobile Computing (**TMC**), 2024.*
+ - [RLoc: Towards Robust Indoor Localization by Quantifying Uncertainty](https://dl.acm.org/doi/abs/10.1145/3631437)  
+  Tianyu Zhang, Dongheng Zhang, Guanzhong Wang, **Yadong Li**, Yang Hu, Qibin Sun, Yan Chen  
+  *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**IMWUT/UbiComp**), 2024*
+ - [Towards Domain-Independent and Real-Time Gesture Recognition Using mmWave Signal](https://ieeexplore.ieee.org/abstract/document/9894724)  
   **Yadong Li**, Dongheng Zhang, Jinbo Chen, Jinwei Wan, Dong Zhang, Yang Hu, Qibin Sun, Yan Chen  
   *IEEE Transactions on Mobile Computing (**TMC**), 2022*
 - [DI-Gesture: Domain-Independent and Real-Time Gesture Recognition with Millimeter-Wave Signals](https://ieeexplore.ieee.org/document/10001175)  
   **Yadong Li**, Dongheng Zhang, Jinbo Chen, Jinwei Wan, Dong Zhang, Yang Hu, Qibin Sun, Yan Chen  
   *IEEE Global Communications Conference (**GLOBECOM**), 2022*
--  [Robust WiFi Respiration Sensing in the Presence of Interfering Individual](https://ieeexplore.ieee.org/document/10379134)  
-  Xuecheng Xie, Dongheng Zhang, **Yadong Li**, Jinbo Chen, Yang Hu, Qibin Sun, Yan Chen  
-  *IEEE Transactions on Mobile Computing (**TMC**), 2024.*
- - [RLoc: Towards Robust Indoor Localization by Quantifying Uncertainty](https://dl.acm.org/doi/abs/10.1145/3631437)  
-  Tianyu Zhang, Dongheng Zhang, Guanzhong Wang, **Yadong Li**, Yang Hu, Qibin Sun, Yan Chen  
-  *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**IMWUT/UbiComp**), 2024* 
+
+  
+- [DiffRadar: High-quality mmWave Radar Perception with Diffusion Probabilistic Model]()  
+  Jincheng Wu, Ruixu Geng, **Yadong Li**, Dongheng Zhang, Zhi Lu, Yang Hu, Yan Chen  
+ *IEEE International Conference on Acoustics, Speech, and Signal Processing (**ICASSP**), 2024*
+- [DREAM-PCD: Deep Reconstruction and Enhancement of mmWave Radar Pointcloud]()  
+   Ruixu Geng, **Yadong Li**, Dongheng Zhang, Jincheng Wu, Yating Gao, Yang Hu, Yan Chen  
+ *arXiv, 2023 (submitted to IEEE Transactions on Imaging Processing)*
 - [SimFall: A Data Generator For RF-based Fall Detection]()  
   Jiamu Li, Dongheng Zhang, Qi Chen, **Yadong Li**, Jianyang Wang, Wenxuan Li, Yang Hu, Qibin Sun, Yan Chen  
   *IEEE International Conference on Acoustics, Speech, and Signal Processing (**ICASSP**), 2024*
