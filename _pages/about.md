@@ -63,25 +63,7 @@ The goal of my research is to **enhance the sensing robustness** (e.g., cross-do
   **Yadong Li**, Dongheng Zhang, Jinbo Chen, Jinwei Wan, Dong Zhang, Yang Hu, Qibin Sun, Yan Chen  
   *IEEE Global Communications Conference (**GLOBECOM**), 2022*
 
-  
-- [DiffRadar: High-quality mmWave Radar Perception with Diffusion Probabilistic Model]()  
-  Jincheng Wu, Ruixu Geng, **Yadong Li**, Dongheng Zhang, Zhi Lu, Yang Hu, Yan Chen  
- *IEEE International Conference on Acoustics, Speech, and Signal Processing (**ICASSP**), 2024*
-- [DREAM-PCD: Deep Reconstruction and Enhancement of mmWave Radar Pointcloud]()  
-   Ruixu Geng, **Yadong Li**, Dongheng Zhang, Jincheng Wu, Yating Gao, Yang Hu, Yan Chen  
- *arXiv, 2023 (submitted to IEEE Transactions on Imaging Processing)*
-- [SimFall: A Data Generator For RF-based Fall Detection]()  
-  Jiamu Li, Dongheng Zhang, Qi Chen, **Yadong Li**, Jianyang Wang, Wenxuan Li, Yang Hu, Qibin Sun, Yan Chen  
-  *IEEE International Conference on Acoustics, Speech, and Signal Processing (**ICASSP**), 2024*
-- [Enabling Orientation-Free mmWave-based Vital Sign Sensing with Multi-domain Signal Analysis]()  
-  Hanqin Gong, Dongheng Zhang, Jinbo Chen, **Yadong Li**, Guixin Xu, Yuqin Yuan, Yang Hu, Yan Chen  
-  *IEEE International Conference on Acoustics, Speech, and Signal Processing (**ICASSP**), 2024*
-- [Unsupervised Domain Adaptation for RF-based Gesture Recognition](https://ieeexplore.ieee.org/document/10147269)  
-  Bin-Bin Zhang, Dongheng Zhang, **Yadong Li**, Yang Hu, Yan Chen   
-  *IEEE Internet of Things Journal (**IoTJ**), 2023*
-- [Real-Time Fall Detection Using mmWave Radar](https://ieeexplore.ieee.org/document/9747153)  
-  Wenxuan Li, Dongheng Zhang,**Yadong Li**, Zhi Wu, Jinbo Chen, Dong Zhang, Yang Hu, Qibin Sun, Yan Chen  
-  *IEEE International Conference on Acoustics, Speech, and Signal Processing (**ICASSP**), 2022*
+
 
 
 # ✨ Honors and Awards
