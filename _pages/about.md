@@ -24,6 +24,7 @@ My research interests include wireless sensing and ubiquitous computing, focusin
 The goal of my research is to **enhance the sensing robustness** (e.g., cross-domain gesture and position sensing, sensing under human and device interference) and **augment the sensing resolution** (e.g., near-field SAR imaging, radar point cloud generation), which is crucial for achieving a comprehensive perception of the physical and digital world with millions of wireless devices. 
 
 # 📢 News
+- *2024.03*: &nbsp;🎉🎉 I will start my Ph.D. studies in the [Department of Electrical & Computer Engineering](https://www.ece.uw.edu/) at the [University of Washington](https://www.washington.edu/) from Fall 2024.
 - *2023.12*: &nbsp;🎉🎉 One paper got accepted by IEEE TMC and four papers got accepted by IEEE ICASSP. 
 - *2023.11*: &nbsp;🎉🎉 One paper got accepted by [Communications Engineering](https://www.nature.com/commseng/) from the Nature Portfolio. 
 - *2023.10*: &nbsp;🎉🎉 One paper got accepted by ACM UbiComp. 
