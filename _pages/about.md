@@ -44,8 +44,8 @@ The goal of my research is to **enhance the sensing robustness** (e.g., cross-do
   - A human-held device WiFi localization dataset consisting of 120,000 frames from 10 volunteers across 4 rooms.
     
 # 📝 Selected Publications 
-- [iSense: Enabling Radar Sensing Under Mutual Device Interference](https://ieeexplore.ieee.org/document/10476710) 
-  Shuai Yang, Dongheng Zhang, **Yadong Li**, Yang Hu, Qibin Sun, Yan Chen 
+- [iSense: Enabling Radar Sensing Under Mutual Device Interference](https://ieeexplore.ieee.org/document/10476710)  
+  Shuai Yang, Dongheng Zhang, **Yadong Li**, Yang Hu, Qibin Sun, Yan Chen  
    *IEEE Transactions on Mobile Computing (**TMC**), 2024.* 
 -  [A High-resolution Handheld Millimeter-wave Imaging System with Phase Error Estimation and Compensation](https://www.nature.com/articles/s44172-023-00156-2)  
   **Yadong Li**, Dongheng Zhang, Ruixu Geng, Zhi Lu, Zhi Wu, Yang Hu, Qibin Sun, Yan Chen  
