@@ -37,11 +37,13 @@ The goal of my research is to **enhance the sensing robustness** (e.g., cross-do
 - [MCD-Gesture](https://github.com/yadong-lee/cross_domain_gesture_dataset): mmWave Gesture Dataset (IEEE TMC, 2022).  
   - A cross-domain gesture dataset consisting of 24050 instances from 25 users, 6 environments, and 5 locations.  
   - The dataset has been used by researchers from over 50 institutions worldwide.  
+
+- [H-WILD](https://github.com/H-WILD/human_held_device_wifi_indoor_localization_dataset): WiFi Localization Dataset (ACM UbiComp, 2024).  
+  - A human-held device WiFi localization dataset consisting of 120,000 frames from 10 volunteers across 4 rooms.
+ 
 - [RadarEyes](https://github.com/ruixv/RadarEyes): mmWave Pointcloud Dataset (IEEE TIP, Under review).  
   - The largest indoor mmWave radar dataset for high-quality point cloud reconstruction.   
   - The dataset contains 1,000,000 frames of mmWave radar, LiDAR, and camera data from 300 indoor scenarios.
-- [H-WILD](https://github.com/H-WILD/human_held_device_wifi_indoor_localization_dataset): WiFi Localization Dataset (ACM UbiComp, 2023).  
-  - A human-held device WiFi localization dataset consisting of 120,000 frames from 10 volunteers across 4 rooms.
     
 # 📝 Selected Publications 
 - [iSense: Enabling Radar Sensing Under Mutual Device Interference](https://ieeexplore.ieee.org/document/10476710)  
