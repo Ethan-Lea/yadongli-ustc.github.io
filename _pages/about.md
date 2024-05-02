@@ -24,6 +24,7 @@ My research interests include wireless sensing and ubiquitous computing, focusin
 The goal of my research is to **enhance the sensing robustness** (e.g., cross-domain gesture and position sensing, sensing under human and device interference) and **augment the sensing resolution** (e.g., near-field SAR imaging, radar point cloud generation), which is crucial for achieving a comprehensive perception of the physical and digital world with millions of wireless devices. 
 
 # 📢 News
+- *2024.04*: &nbsp;🎉🎉 One paper got accepted by IJCAI 2024 and one paper got accepted by IEEE TMC. 
 - *2024.03*: &nbsp;🎉🎉 I will start my Ph.D. studies in the [Department of Electrical & Computer Engineering](https://www.ece.uw.edu/) at the [University of Washington](https://www.washington.edu/) from Fall 2024.
 - *2023.12*: &nbsp;🎉🎉 One paper got accepted by IEEE TMC and four papers got accepted by IEEE ICASSP. 
 - *2023.11*: &nbsp;🎉🎉 One paper got accepted by [Communications Engineering](https://www.nature.com/commseng/) from the Nature Portfolio. 
@@ -46,15 +47,15 @@ The goal of my research is to **enhance the sensing robustness** (e.g., cross-do
   - The dataset contains 1,000,000 frames of mmWave radar, LiDAR, and camera data from 300 indoor scenarios.
     
 # 📝 Selected Publications 
-- [iSense: Enabling Radar Sensing Under Mutual Device Interference](https://ieeexplore.ieee.org/document/10476710)  
-  Shuai Yang, Dongheng Zhang, **Yadong Li**, Yang Hu, Qibin Sun, Yan Chen  
-   *IEEE Transactions on Mobile Computing (**TMC**), 2024.* 
 -  [A High-resolution Handheld Millimeter-wave Imaging System with Phase Error Estimation and Compensation](https://www.nature.com/articles/s44172-023-00156-2)  
   **Yadong Li**, Dongheng Zhang, Ruixu Geng, Zhi Lu, Zhi Wu, Yang Hu, Qibin Sun, Yan Chen  
   *Communications Engineering (**Comms. Eng.**), 2024*
 - [IFNet: Imaging and Focusing Network for Handheld mmWave Devices](https://ieeexplore.ieee.org/document/10447461)  
   **Yadong Li**, Dongheng Zhang, Ruixu Geng, Jincheng Wu, Yang Hu, Qibin Sun, Yan Chen  
   *IEEE International Conference on Acoustics, Speech, and Signal Processing (**ICASSP**), 2024*
+- [iSense: Enabling Radar Sensing Under Mutual Device Interference](https://ieeexplore.ieee.org/document/10476710)  
+  Shuai Yang, Dongheng Zhang, **Yadong Li**, Yang Hu, Qibin Sun, Yan Chen  
+   *IEEE Transactions on Mobile Computing (**TMC**), 2024.* 
 - [Robust WiFi Respiration Sensing in the Presence of Interfering Individual](https://ieeexplore.ieee.org/document/10379134)  
   Xuecheng Xie, Dongheng Zhang, **Yadong Li**, Jinbo Chen, Yang Hu, Qibin Sun, Yan Chen  
   *IEEE Transactions on Mobile Computing (**TMC**), 2024.*
@@ -72,7 +73,7 @@ The goal of my research is to **enhance the sensing robustness** (e.g., cross-do
 
 
 # ✨ Honors and Awards
-- *2024.03* USTC Outstanding Graduate 
+- *2024.03* Anhui/USTC Outstanding Graduate 
 - *2024.02* ICASSP'24 IEEE SPS Travel Grant Award
 - *2022.10* National Scholarship (Top 2%)
 - *2021.08* Adolescents Science and Technology Innovation Prize (10 students in Henan province each year) 
