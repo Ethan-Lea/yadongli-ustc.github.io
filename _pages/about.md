@@ -45,7 +45,8 @@ Previously, I was a group member of the [USTC IP Lab](https://ustc-ip-lab.github
   - The largest indoor mmWave radar dataset for high-quality point cloud reconstruction.   
   - The dataset contains 1,000,000 frames of mmWave radar, LiDAR, and camera data from 300 indoor scenarios.
     
-# 📝 Selected Publications ([Full List](https://scholar.google.com/citations?user=iZWM3pAAAAAJ&hl=en))
+# 📝 Publications
+## Selected Publications
 -  [A High-resolution Handheld Millimeter-wave Imaging System with Phase Error Estimation and Compensation](https://www.nature.com/articles/s44172-023-00156-2)  
   **Yadong Li**, Dongheng Zhang, Ruixu Geng, Zhi Lu, Zhi Wu, Yang Hu, Qibin Sun, Yan Chen  
   *Communications Engineering (**Comms. Eng.**), 2024*
@@ -64,10 +65,7 @@ Previously, I was a group member of the [USTC IP Lab](https://ustc-ip-lab.github
  - [Towards Domain-Independent and Real-Time Gesture Recognition Using mmWave Signal](https://ieeexplore.ieee.org/abstract/document/9894724)  
   **Yadong Li**, Dongheng Zhang, Jinbo Chen, Jinwei Wan, Dong Zhang, Yang Hu, Qibin Sun, Yan Chen  
   *IEEE Transactions on Mobile Computing (**TMC**), 2022*
-- [DI-Gesture: Domain-Independent and Real-Time Gesture Recognition with Millimeter-Wave Signals](https://ieeexplore.ieee.org/document/10001175)  
-  **Yadong Li**, Dongheng Zhang, Jinbo Chen, Jinwei Wan, Dong Zhang, Yang Hu, Qibin Sun, Yan Chen  
-  *IEEE Global Communications Conference (**GLOBECOM**), 2022*
-
+##  [Full List](https://scholar.google.com/citations?user=iZWM3pAAAAAJ&hl=en)
 
 
 
