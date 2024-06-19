@@ -65,6 +65,7 @@ Previously, I was a group member of the [USTC IP Lab](https://ustc-ip-lab.github
  - [Towards Domain-Independent and Real-Time Gesture Recognition Using mmWave Signal](https://ieeexplore.ieee.org/abstract/document/9894724)  
   **Yadong Li**, Dongheng Zhang, Jinbo Chen, Jinwei Wan, Dong Zhang, Yang Hu, Qibin Sun, Yan Chen  
   *IEEE Transactions on Mobile Computing (**TMC**), 2022*
+   
 ##  [Full List](https://scholar.google.com/citations?user=iZWM3pAAAAAJ&hl=en)
 
 
