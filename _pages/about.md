@@ -20,7 +20,7 @@ redirect_from:
 # 😄 About Me  
 I am an incoming Ph.D. student in the [Department of Electrical & Computer Engineering](https://www.ece.uw.edu/) at the [University of Washington](https://www.washington.edu/). I am a group member of the [Networking and Emerging Wireless Technologies (NEWT) Lab](https://newtlab.ece.uw.edu/), advised by [Prof. Akshay Gadre](https://www.akshaygadre.com/).
 
-Previously, I was a group member of the USTC [Intelligent Perception (IP) Lab](https://ustc-ip-lab.github.io/), advised by [Prof. Qibin Sun](https://scholar.google.com/citations?hl=en&user=bPLvsSAAAAAJ) and [Prof. Yan Chen](https://scholar.google.com/citations?hl=en-EN&user=MVOCn1AAAAAJ), where I focused on developing human-centric sensing systems with wireless devices. 
+Previously, I was a group member of the [USTC IP Lab](https://ustc-ip-lab.github.io/), advised by [Prof. Qibin Sun](https://scholar.google.com/citations?hl=en&user=bPLvsSAAAAAJ) and [Prof. Yan Chen](https://scholar.google.com/citations?hl=en-EN&user=MVOCn1AAAAAJ), where I focused on developing human-centric sensing systems with wireless devices. 
 
 
 # 📢 News
