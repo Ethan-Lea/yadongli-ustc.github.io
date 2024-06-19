@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yadong Li"
-description              : "incoming ECE Ph.D. student.  yadongli@uw.edu"
+description              : "incoming ECE Ph.D. student.  Email: yadongli@uw.edu"
 repository               : "yadongli-ustc/yadongli-ustc.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -28,7 +28,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=iZWM3pAAAAAJ&hl=en"
-  email            : "yadongli@uw.edu"
+  email            : 
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
