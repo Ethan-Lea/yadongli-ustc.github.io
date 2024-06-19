@@ -18,16 +18,15 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 😄 About Me  
-I am a third-year MSc student at the University of Science and Technology of China (USTC). I am also a group member of USTC [Intelligent Perception Lab](https://ustc-ip-lab.github.io/), advised by [Prof. Qibin Sun](https://scholar.google.com/citations?hl=en&user=bPLvsSAAAAAJ) and [Prof. Yan Chen](https://scholar.google.com/citations?hl=en-EN&user=MVOCn1AAAAAJ).
-My research interests include wireless sensing and ubiquitous computing, focusing on developing human-centric sensing systems with cost-effective and privacy-preserving mobile devices.  
+I am an incoming Ph.D. student in the [Department of Electrical & Computer Engineering](https://www.ece.uw.edu/) at the [University of Washington](https://www.washington.edu/). I am a group member of the [Networking and Emerging Wireless Technologies (NEWT) Lab](https://newtlab.ece.uw.edu/), advised by Prof. [Akshay Gadre](https://www.akshaygadre.com/).
 
-The goal of my research is to **enhance the sensing robustness** (e.g., cross-domain gesture and position sensing, sensing under human and device interference) and **augment the sensing resolution** (e.g., near-field SAR imaging, radar point cloud generation), which is crucial for achieving a comprehensive perception of the physical and digital world with millions of wireless devices. 
+Previously, I was a group member of the USTC [Intelligent Perception (IP) Lab](https://ustc-ip-lab.github.io/), advised by [Prof. Qibin Sun](https://scholar.google.com/citations?hl=en&user=bPLvsSAAAAAJ) and [Prof. Yan Chen](https://scholar.google.com/citations?hl=en-EN&user=MVOCn1AAAAAJ), where I focused on developing human-centric sensing systems with wireless devices. 
+
 
 # 📢 News
 - *2024.04*: &nbsp;🎉🎉 One paper got accepted by IJCAI 2024 and one paper got accepted by IEEE TMC. 
-- *2024.03*: &nbsp;🎉🎉 I will start my Ph.D. studies in the [Department of Electrical & Computer Engineering](https://www.ece.uw.edu/) at the [University of Washington](https://www.washington.edu/) from Fall 2024.
 - *2023.12*: &nbsp;🎉🎉 One paper got accepted by IEEE TMC and four papers got accepted by IEEE ICASSP. 
-- *2023.11*: &nbsp;🎉🎉 One paper got accepted by [Communications Engineering](https://www.nature.com/commseng/) from the Nature Portfolio. 
+- *2023.11*: &nbsp;🎉🎉 One paper about handheld mmWave imaging got accepted by [Communications Engineering](https://www.nature.com/commseng/). 
 - *2023.10*: &nbsp;🎉🎉 One paper got accepted by ACM UbiComp. 
 - *2023.10*: &nbsp;🎉🎉 We have released the largest [indoor mmWave radar point cloud dataset](https://github.com/ruixv/RadarEyes) and the corresponding code.
 - *2023.09*: &nbsp;🎉🎉 MCD-Gesture dataset has been downloaded by researchers from over 50 universities worldwide.
@@ -37,7 +36,7 @@ The goal of my research is to **enhance the sensing robustness** (e.g., cross-do
 # 🔥 Released Datasets
 - [MCD-Gesture](https://github.com/yadong-lee/cross_domain_gesture_dataset): mmWave Gesture Dataset (IEEE TMC, 2022).  
   - A cross-domain gesture dataset consisting of 24050 instances from 25 users, 6 environments, and 5 locations.  
-  - The dataset has been used by researchers from over 50 institutions worldwide.  
+  - The dataset has been used by researchers from over 60 institutions worldwide.  
 
 - [H-WILD](https://github.com/H-WILD/human_held_device_wifi_indoor_localization_dataset): WiFi Localization Dataset (ACM UbiComp, 2024).  
   - A human-held device WiFi localization dataset consisting of 120,000 frames from 10 volunteers across 4 rooms.
@@ -91,7 +90,8 @@ The goal of my research is to **enhance the sensing robustness** (e.g., cross-do
 - IEEE Sensors Journal
 
 # 📖 Education
-- *2021.09 - Now*, Master, Cyberspace Security, University of Science and Technology of China. 
+- *2024.09 - 2029.06(expected)*, Ph.D., Electrical Engineering, University of Washington.
+- *2021.09 - 2024.06*, Master, Cyberspace Security, University of Science and Technology of China. 
 - *2017.09 - 2021.06*, Bachelor, Computer Science, Zhengzhou University. 
 
 
