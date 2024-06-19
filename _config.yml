@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yadong Li"
-description              : "incoming ECE Ph.D. student at UW"
+description              : "incoming ECE Ph.D. student at UW."
 repository               : "yadongli-ustc/yadongli-ustc.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,11 +24,11 @@ author:
   name             : "Yadong Li"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "University of Washington"
-  location         : "Hefei, China"
+  location         : "Seattle, USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=iZWM3pAAAAAJ&hl=en"
-  email            : "yadongli@mail.ustc.edu.cn"
+  email            : "yadongli@uw.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
