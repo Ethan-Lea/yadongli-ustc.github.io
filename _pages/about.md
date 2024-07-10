@@ -24,7 +24,7 @@ Previously, I was a group member of the [USTC IP Lab](https://ustc-ip-lab.github
 
 
 # 📢 News
-- *2024.07*: &nbsp;🎉🎉 <font color=red>MCD-Gesture dataset has been accessed by over **60 institutions across 12 countries**</font>.
+- *2024.07*: &nbsp;🎉🎉 <font color=red>MCD-Gesture dataset has been accessed by over 60 institutions across 12 countries</font>.
 - *2024.04*: &nbsp;🎉🎉 One paper got accepted by IJCAI 2024 and one paper got accepted by IEEE TMC. 
 - *2023.12*: &nbsp;🎉🎉 One paper got accepted by IEEE TMC and four papers got accepted by IEEE ICASSP. 
 - *2023.11*: &nbsp;🎉🎉 One paper about handheld mmWave imaging got accepted by [Communications Engineering](https://www.nature.com/commseng/). 
@@ -46,7 +46,7 @@ Previously, I was a group member of the [USTC IP Lab](https://ustc-ip-lab.github
   - The dataset contains 1,000,000 frames of mmWave radar, LiDAR, and camera data from 300 indoor scenarios.
     
 # 📝 Publications
-## Selected Publications
+## Selected Publications [Full List](https://scholar.google.com/citations?user=iZWM3pAAAAAJ&hl=en)
 -  [A High-resolution Handheld Millimeter-wave Imaging System with Phase Error Estimation and Compensation](https://www.nature.com/articles/s44172-023-00156-2)  
   **Yadong Li**, Dongheng Zhang, Ruixu Geng, Zhi Lu, Zhi Wu, Yang Hu, Qibin Sun, Yan Chen  
   *Communications Engineering (**Comms. Eng.**), 2024*
@@ -66,12 +66,10 @@ Previously, I was a group member of the [USTC IP Lab](https://ustc-ip-lab.github
   **Yadong Li**, Dongheng Zhang, Jinbo Chen, Jinwei Wan, Dong Zhang, Yang Hu, Qibin Sun, Yan Chen  
   *IEEE Transactions on Mobile Computing (**TMC**), 2022*
    
-##  [Full List](https://scholar.google.com/citations?user=iZWM3pAAAAAJ&hl=en)
-
 
 
 # ✨ Honors and Awards
-- *2024.03* Anhui/USTC Outstanding Graduate 
+- *2024.06* Anhui/USTC Outstanding Graduate 
 - *2024.02* ICASSP'24 IEEE SPS Travel Grant Award
 - *2022.10* National Scholarship (Top 2%)
 - *2021.08* Adolescents Science and Technology Innovation Prize (10 students in Henan province each year) 
