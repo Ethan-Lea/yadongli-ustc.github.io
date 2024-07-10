@@ -24,12 +24,12 @@ Previously, I was a group member of the [USTC IP Lab](https://ustc-ip-lab.github
 
 
 # 📢 News
+- *2024.07*: &nbsp;🎉🎉 <font color=red>MCD-Gesture dataset has been accessed by over **60 institutions across 12 countries**</font>.
 - *2024.04*: &nbsp;🎉🎉 One paper got accepted by IJCAI 2024 and one paper got accepted by IEEE TMC. 
 - *2023.12*: &nbsp;🎉🎉 One paper got accepted by IEEE TMC and four papers got accepted by IEEE ICASSP. 
 - *2023.11*: &nbsp;🎉🎉 One paper about handheld mmWave imaging got accepted by [Communications Engineering](https://www.nature.com/commseng/). 
 - *2023.10*: &nbsp;🎉🎉 One paper got accepted by ACM UbiComp. 
 - *2023.10*: &nbsp;🎉🎉 We have released the largest [indoor mmWave radar point cloud dataset](https://github.com/ruixv/RadarEyes) and the corresponding code.
-- *2023.09*: &nbsp;🎉🎉 MCD-Gesture dataset has been downloaded by researchers from over 50 universities worldwide.
 - *2022.09*: &nbsp;🎉🎉 One paper got accepted by IEEE TMC. 
 - *2021.11*: &nbsp;🎉🎉 We have released a [mmWave gesture dataset](https://github.com/DI-HGR/cross_domain_gesture_dataset) consisting of 24050 samples and 750 domains. 
 
