@@ -46,7 +46,7 @@ Previously, I was a group member of the [USTC IP Lab](https://ustc-ip-lab.github
   - The dataset contains 1,000,000 frames of mmWave radar, LiDAR, and camera data from 300 indoor scenarios.
     
 # 📝 Publications
-## Selected Publications [Full List](https://scholar.google.com/citations?user=iZWM3pAAAAAJ&hl=en)
+## Selected Publications ([Full List](https://scholar.google.com/citations?user=iZWM3pAAAAAJ&hl=en))
 -  [A High-resolution Handheld Millimeter-wave Imaging System with Phase Error Estimation and Compensation](https://www.nature.com/articles/s44172-023-00156-2)  
   **Yadong Li**, Dongheng Zhang, Ruixu Geng, Zhi Lu, Zhi Wu, Yang Hu, Qibin Sun, Yan Chen  
   *Communications Engineering (**Comms. Eng.**), 2024*
