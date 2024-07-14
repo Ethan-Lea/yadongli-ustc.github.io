@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yadong Li"
-description              : "University of Washington"
+description              : "yadongli@uw.edu"
 repository               : "yadongli-ustc/yadongli-ustc.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yadong Li"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "yadongli@uw.edu"
+  bio              : "University of Washington"
   location         : 
   employer         :
   pubmed           : 
