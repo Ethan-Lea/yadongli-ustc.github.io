@@ -36,14 +36,12 @@ Previously, I was a group member of the [USTC IP Lab](https://ustc-ip-lab.github
 # 🔥 Released Datasets
 - [MCD-Gesture](https://github.com/yadong-lee/cross_domain_gesture_dataset): mmWave Gesture Dataset (IEEE TMC, 2022).  
   - A cross-domain gesture dataset consisting of 24050 instances from 25 users, 6 environments, and 5 locations.  
-  - The dataset has been used by researchers from over 60 institutions worldwide.  
 
 - [H-WILD](https://github.com/H-WILD/human_held_device_wifi_indoor_localization_dataset): WiFi Localization Dataset (ACM UbiComp, 2024).  
   - A human-held device WiFi localization dataset consisting of 120,000 frames from 10 volunteers across 4 rooms.
- 
+
 - [RadarEyes](https://github.com/ruixv/RadarEyes): mmWave Pointcloud Dataset (IEEE TIP, Under review).  
-  - The largest indoor mmWave radar dataset for high-quality point cloud reconstruction.   
-  - The dataset contains 1,000,000 frames of mmWave radar, LiDAR, and camera data from 300 indoor scenarios.
+  - A point cloud dataset consisting of 1,000,000 frames of mmWave radar, LiDAR, and camera data from 300 indoor scenarios.
     
 # 📝 Publications
 ## Selected Publications ([Full List](https://scholar.google.com/citations?user=iZWM3pAAAAAJ&hl=en))
@@ -64,7 +62,7 @@ Previously, I was a group member of the [USTC IP Lab](https://ustc-ip-lab.github
   *IEEE Transactions on Mobile Computing (**TMC**), 2024.*  
  - [RLoc: Towards Robust Indoor Localization by Quantifying Uncertainty](https://dl.acm.org/doi/abs/10.1145/3631437)  
   Tianyu Zhang, Dongheng Zhang, Guanzhong Wang, **Yadong Li**, Yang Hu, Qibin Sun, Yan Chen  
-  *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**IMWUT/UbiComp**), 2024*
+  *Proceedings of the ACM on Interactive, Mobile, Wearable, and Ubiquitous Technologies (**IMWUT/UbiComp**), 2024*
  - [Towards Domain-Independent and Real-Time Gesture Recognition Using mmWave Signal](https://ieeexplore.ieee.org/abstract/document/9894724)  
   **Yadong Li**, Dongheng Zhang, Jinbo Chen, Jinwei Wan, Dong Zhang, Yang Hu, Qibin Sun, Yan Chen  
   *IEEE Transactions on Mobile Computing (**TMC**), 2022*
