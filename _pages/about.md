@@ -59,6 +59,9 @@ Previously, I was a group member of the [USTC IP Lab](https://ustc-ip-lab.github
 - [Robust WiFi Respiration Sensing in the Presence of Interfering Individual](https://ieeexplore.ieee.org/document/10379134)  
   Xuecheng Xie, Dongheng Zhang, **Yadong Li**, Jinbo Chen, Yang Hu, Qibin Sun, Yan Chen  
   *IEEE Transactions on Mobile Computing (**TMC**), 2024.*
+- [SBRF: A Fine-Grained Radar Signal Generator for Human Sensing](https://ieeexplore.ieee.org/document/10596954)  
+  Jiamu Li, Dongheng Zhang, Zhi Wu, Cong Yu, **Yadong Li**, Qi Chen, Yang Hu, Qibin Sun, Yan Chen  
+  *IEEE Transactions on Mobile Computing (**TMC**), 2024.*  
  - [RLoc: Towards Robust Indoor Localization by Quantifying Uncertainty](https://dl.acm.org/doi/abs/10.1145/3631437)  
   Tianyu Zhang, Dongheng Zhang, Guanzhong Wang, **Yadong Li**, Yang Hu, Qibin Sun, Yan Chen  
   *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**IMWUT/UbiComp**), 2024*
