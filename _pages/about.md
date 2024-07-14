@@ -71,7 +71,7 @@ Previously, I was a group member of the [USTC IP Lab](https://ustc-ip-lab.github
 
 # ✨ Honors and Awards
 - *2024.06* Anhui/USTC Outstanding Graduate 
-- *2024.02* ICASSP'24 IEEE SPS Travel Grant Award
+- *2024.04* ICASSP'24 IEEE SPS Travel Grant Award
 - *2022.10* National Scholarship (Top 2%)
 - *2021.08* Adolescents Science and Technology Innovation Prize (10 students in Henan province each year) 
 - *2021.06* Henan/ZZU Outstanding Graduate (Top 2%)
@@ -86,6 +86,7 @@ Previously, I was a group member of the [USTC IP Lab](https://ustc-ip-lab.github
 - IEEE Journal on Selected Areas in Communications (JSAC)  
 - IEEE Internet of Things Journal (IoTJ)
 - IEEE Sensors Journal
+- IEEE CCECE 2024 
 
 # 📖 Education
 - *2024.09 - 2029.06(expected)*, Ph.D., Electrical Engineering, University of Washington.
